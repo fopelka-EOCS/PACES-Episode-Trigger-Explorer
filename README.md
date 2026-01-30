@@ -20,6 +20,74 @@ This app is part of the broader **EOCS (Episodes of Care Suite)** initiative, wh
 - **Downloadable Results**  
   Export tables for further analysis or documentation.
 
+## 📘 Usage Guide
+
+The PACES Episode Trigger Explorer is designed to make it fast and intuitive to identify which triggers belong to which PACES episodes. The tool supports multiple search pathways depending on what information the user starts with.
+
+---
+
+### 1. Search by Episode Short Descriptor
+
+Use this workflow when you know the episode name (e.g., “Knee Arthroscopy”).
+
+**Steps:**
+1. Select **Episode Short Descriptor** from the sidebar.
+2. Begin typing the descriptor.
+3. Choose the matching episode from the dropdown.
+4. Review all associated triggers and long-form descriptions.
+
+This is the most direct way to validate trigger logic for a specific episode.
+
+---
+
+### 2. Filter by Clinical Chapter or Episode ID
+
+Use this when exploring a clinical domain or reviewing a family of related episodes.
+
+**Steps:**
+1. Select **Clinical Chapter** or **Episode ID**.
+2. Choose from the dropdown list.
+3. View the returned triggers and descriptions.
+
+This workflow is ideal for domain-level review or early-stage episode design.
+
+---
+
+### 3. CPT Keyword Search
+
+Use this when you know a procedure term but not the episode.
+
+**Steps:**
+1. Select **CPT Keyword Search**.
+2. Enter a keyword (e.g., “arthro”, “laparo”, “fusion”).
+3. Review all triggers whose long descriptions contain that keyword.
+
+This is especially useful for exploratory analysis or validating CPT groupings.
+
+---
+
+### 4. Downloading Results
+
+Every results table includes a **Download CSV** button.
+
+Use this to:
+- Export triggers into Excel  
+- Incorporate logic into modeling workflows  
+- Share subsets with clinical or analytic teams  
+
+---
+
+### 5. Intended Use
+
+This tool supports:
+- Episode design and refinement  
+- Trigger validation  
+- Clinical logic review  
+- Rapid prototyping for consulting engagements  
+- Demonstrations of transparency and traceability in episode construction  
+
+It is part of the broader **EOCS (Episodes of Care Suite)** initiative.
+
 ---
 
 ## 🚀 How to Use
