@@ -1,0 +1,743 @@
+Episode ID,Episode Short Name,Clinical Chapter,Trigger Code Raw,Trigger Code,Code System (PACES),Match Score,NHSN Category,Long Description,Code Status,Has NHSN Long Description
+TP0059,Lung resection,Respiratory System,32500-32545,32501,CPT,1,THOR,Resection and repair of portion of bronchus (bronchoplasty) when performed at time of lobectomy or segmentectomy (List separately in No changeition to code for primary procedure),No change,TRUE
+TP0059,Lung resection,Respiratory System,32500-32545,32503,CPT,1,THOR,"Resection of apical lung tumor (eg, Pancoast tumor), including chest wall resection, rib(s) resection(s), neurovascular dissection, when performed; without chest wall reconstruction(s)",No change,TRUE
+TP0059,Lung resection,Respiratory System,32500-32545,32504,CPT,1,THOR,"Resection of apical lung tumor (eg, Pancoast tumor), including chest wall resection, rib(s) resection(s), neurovascular dissection, when performed; with chest wall reconstruction",No change,TRUE
+TP0059,Lung resection,Respiratory System,32500-32545,32505,CPT,1,THOR,"Thoracotomy; with therapeutic wedge resection (eg, mass, nodule), initial",No change,TRUE
+TP0059,Lung resection,Respiratory System,32500-32545,32506,CPT,1,THOR,"Thoracotomy; with therapeutic wedge resection (eg, mass or nodule), each No changeitional resection, ipsilateral (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0059,Lung resection,Respiratory System,32500-32545,32507,CPT,1,THOR,Thoracotomy; with diagnostic wedge resection followed by anatomic lung resection (List separately in No changeition to code for primary procedure),No change,TRUE
+TP0059,Lung resection,Respiratory System,32500-32545,32540,CPT,1,THOR,Extrapleural enucleation of empyema (empyemectomy),No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32658,CPT,1,CARD,"Thoracoscopy, surgical; with removal of clot or foreign body from pericardial sac",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32659,CPT,1,CARD,"Thoracoscopy, surgical; with creation of pericardial window or partial resection of pericardial sac for drainage",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32661,CPT,1,CARD,"Thoracoscopy, surgical; with excision of pericardial cyst, tumor, or mass",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32662,CPT,1,THOR,"Thoracoscopy, surgical; with excision of mediastinal cyst, tumor, or mass",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32663,CPT,1,THOR,"Thoracoscopy, surgical; with lobectomy (single lobe)",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32666,CPT,1,THOR,"Thoracoscopy, surgical; with therapeutic wedge resection (eg, mass, nodule), initial unilateral",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32667,CPT,1,THOR,"Thoracoscopy, surgical; with therapeutic wedge resection (eg, mass or nodule), each No changeitional resection, ipsilateral (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32668,CPT,1,THOR,"Thoracoscopy, surgical; with diagnostic wedge resection followed by anatomic lung resection (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0059,Lung resection,Respiratory System,32657-32669,32669,CPT,1,THOR,"Thoracoscopy, surgical; with removal of a single lung segment (segmentectomy)",No change,TRUE
+TP0131,Cardiac catheterization,Circulatory System,36013,36013,CPT,1,,,,FALSE
+TP0131,Cardiac catheterization,Circulatory System,75500-75527,75500-75527,CPT,1,,,,FALSE
+TP0131,Cardiac catheterization,Circulatory System,75750-75766,75750-75766,CPT,1,,,,FALSE
+TP0131,Cardiac catheterization,Circulatory System,93451-93462,93451-93462,CPT,1,,,,FALSE
+TP0131,Cardiac catheterization,Circulatory System,93501-93567,93501-93567,CPT,1,,,,FALSE
+TP0134,CABG,Circulatory System,33510-33575,33510,CPT,1,CBGB,"Coronary artery bypass, vein only; single coronary venous graft",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33511,CPT,1,CBGB,"Coronary artery bypass, vein only; 2 coronary venous grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33512,CPT,1,CBGB,"Coronary artery bypass, vein only; 3 coronary venous grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33513,CPT,1,CBGB,"Coronary artery bypass, vein only; 4 coronary venous grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33514,CPT,1,CBGB,"Coronary artery bypass, vein only; 5 coronary venous grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33516,CPT,1,CBGB,"Coronary artery bypass, vein only; 6 or more coronary venous grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33533,CPT,1,CBGC,"Coronary artery bypass, using arterial graft(s); single arterial graft",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33534,CPT,1,CBGC,"Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33535,CPT,1,CBGC,"Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33536,CPT,1,CBGC,"Coronary artery bypass, using arterial graft(s);  4 or more coronary arterial grafts",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33542,CPT,1,CARD,"Myocardial resection (eg, ventricular aneurysmectomy)",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33545,CPT,1,CARD,"Repair of postinfarction ventricular septal defect, with or without myocardial resection ",No change,TRUE
+TP0134,CABG,Circulatory System,33510-33575,33548,CPT,1,CARD,"Surgical ventricular restoration procedure, includes prosthetic patch, when performed (eg, ventricular remodeling, SVR, SAVER, Dor procedures)",No change,TRUE
+TP0134,CABG,Circulatory System,S2205-S2209,S2205-S2209,CPT,1,,,,FALSE
+TP0138,Percutaneous cardiac intervention,Circulatory System,92920-92996,92920-92996,CPT,1,,,,FALSE
+TP0138,Percutaneous cardiac intervention,Circulatory System,C9603-C9608,C9603-C9608,CPT,1,,,,FALSE
+TP0138,Percutaneous cardiac intervention,Circulatory System,G0290-G0291,G0290-G0291,CPT,1,,,,FALSE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33202,CPT,1,PACE,"Insertion of epicardial electrode(s); open incision (e.g., thoracotomy, median sternotomy, subxiphoid approach)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33203,CPT,1,PACE,"Insertion of epicardial electrode(s); endoscopic approach (e.g., thoracoscopy, pericardioscopy)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33206,CPT,1,PACE,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33207,CPT,1,PACE,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); ventricular,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33208,CPT,1,PACE,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial and ventricular,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33212,CPT,1,PACE,Insertion of pacemaker pulse generator only; with existing single lead,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33213,CPT,1,PACE,Insertion of pacemaker pulse generator only; with existing dual leads,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33214,CPT,1,PACE,"Upgrade of implanted pacemaker system, conversion of single chamber system to dual chamber system (includes removal of previously placed pulse generator, testing of existing lead, insertion of new lead, insertion of new pulse generator) ",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33215,CPT,1,PACE,Repositioning of previously implanted transvenous pacemaker or implantable defibrillator (right atrial or right ventricular) electrode,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33216,CPT,1,PACE,"Insertion of a single transvenous electrode, permanent pacemaker or implantable defibrillator ",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33217,CPT,1,PACE,"Insertion of 2 transvenous electrodes, permanent pacemaker or implantable defibrillator ",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33218,CPT,1,PACE,"Repair of single transvenous electrode, permanent pacemaker or implantable defibrillator ",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33220,CPT,1,PACE,Repair of 2 transvenous electrodes for permanent pacemaker or implantable defibrillator,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33221,CPT,1,PACE,Insertion of pacemaker pulse generator only; with existing multiple leads,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33222,CPT,1,PACE,Relocation of skin pocket for pacemaker,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33223,CPT,1,PACE,Relocation of skin pocket for implantable defibrillator,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33224,CPT,1,PACE,"Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, with attachment to previously placed pacemaker or implantable defibrillator pulse generator (including revision of pocket, removal, insertion, and/or replacement of existing generator)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33225,CPT,1,PACE,"Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, at time of insertion of implantable defibrillator or pacemaker pulse generator (e.g., for upgrade to dual chamber system) (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33226,CPT,1,PACE,"Repositioning of previously implanted cardiac venous system (left ventricular) electrode (including removal, insertion and/or replacement of existing generator)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33227,CPT,1,PACE,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; single lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33228,CPT,1,PACE,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; dual lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33229,CPT,1,PACE,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; multiple lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33230,CPT,1,PACE,Insertion of implantable defibrillator pulse generator only; with existing dual leads,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33231,CPT,1,PACE,Insertion of implantable defibrillator pulse generator only; with existing multiple leads,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33233,CPT,1,PACE,Removal of permanent pacemaker pulse generator only,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33234,CPT,1,PACE,"Removal of transvenous pacemaker electrode(s); single lead system, atrial or ventricular ",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33235,CPT,1,PACE,Removal of transvenous pacemaker electrode(s); dual lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33236,CPT,1,PACE,"Removal of permanent epicardial pacemaker and electrodes by thoracotomy; single lead system, atrial or ventricular",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33237,CPT,1,PACE,Removal of permanent epicardial pacemaker and electrodes by thoracotomy; dual lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33238,CPT,1,PACE,Removal of permanent transvenous electrode(s) by thoracotomy,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33240,CPT,1,PACE,Insertion of implantable defibrillator pulse generator only; with existing single lead,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33241,CPT,1,PACE,Removal of implantable defibrillator pulse generator only,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33243,CPT,1,PACE,Removal of single or dual chamber implantable defibrillator electrode(s); by thoracotomy,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33244,CPT,1,PACE,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; by transvenous extraction,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33249,CPT,1,PACE,"Insertion or replacement of permanent implantable defibrillator system, with transvenous lead(s), single or dual chamber ",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33250,CPT,1,CARD,"Operative ablation of supraventricular arrhythmogenic focus or pathway (eg, Wolff-Parkinson-White, atrioventricular node re-entry), tract(s) and/or focus (foci); without cardiopulmonary bypass",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33251,CPT,1,CARD,"Operative ablation of supraventricular arrhythmogenic focus or pathway (eg, Wolff-Parkinson-White, atrioventricular node re-entry), tract(s) and/or focus (foci); with cardiopulmonary bypass",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33254,CPT,1,CARD,"Operative tissue ablation and reconstruction of atria, limited (eg, modified maze procedure)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33255,CPT,1,CARD,"Operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure); without cardiopulmonary bypass",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33256,CPT,1,CARD,"Operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure); with cardiopulmonary bypass",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33257,CPT,1,CARD,"Operative tissue ablation and reconstruction of atria, performed at the time of other cardiac procedure(s), limited (eg, modified maze procedure) (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33258,CPT,1,CARD,"Operative tissue ablation and reconstruction of atria, performed at the time of other cardiac procedure(s), extensive (eg, maze procedure), without cardiopulmonary bypass (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33259,CPT,1,CARD,"Operative tissue ablation and reconstruction of atria, performed at the time of other cardiac procedure(s), extensive (eg, maze procedure), with cardiopulmonary bypass (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33261,CPT,1,CARD,Operative ablation of ventricular arrhythmogenic focus with cardiopulmonary bypass,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33262,CPT,1,PACE,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; single lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33263,CPT,1,PACE,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; dual lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,33200-33264,33264,CPT,1,PACE,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; multiple lead system,No change,TRUE
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,G0448,G0448,HCPCS,1,,,,FALSE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33404,CPT,1,CARD,Construction of apical-aortic conduit,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33405,CPT,1,CARD,"Replacement, aortic valve, open, with cardiopulmonary bypass; with prosthetic valve other than homograft or stentless valve ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33406,CPT,1,CARD,"Replacement, aortic valve, with cardiopulmonary bypass; with allograft valve (freehand)",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33410,CPT,1,CARD,"Replacement, aortic valve, open, with cardiopulmonary bypass; with stentless tissue valve ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33411,CPT,1,CARD,"Replacement, aortic valve; with aortic annulus enlargement, noncoronary sinus ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33412,CPT,1,CARD,"Replacement, aortic valve; with transventricular aortic annulus enlargement (Konno procedure)",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33413,CPT,1,CARD,"Replacement, aortic valve; by translocation of autologous pulmonary valve with allograft replacement of pulmonary valve (Ross procedure) ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33414,CPT,1,CARD,Repair of left ventricular outflow tract obstruction by patch enlargement of the outflow tract,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33415,CPT,1,CARD,Resection or incision of subvalvular tissue for discrete subvalvular aortic stenosis,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33416,CPT,1,CARD,"Ventriculomyotomy (-myectomy) for idiopathic hypertrophic subaortic stenosis (eg, asymmetric septal hypertrophy)",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33417,CPT,1,CARD,Aortoplasty (gusset) for supravalvular stenosis,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33420,CPT,1,CARD,"Valvotomy, mitral valve; closed heart",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33422,CPT,1,CARD,"Valvotomy, mitral valve; open heart, with cardiopulmonary bypass",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33425,CPT,1,CARD,"Valvuloplasty, mitral valve, with cardiopulmonary bypass;",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33426,CPT,1,CARD,"Valvuloplasty, mitral valve, with cardiopulmonary bypass; with prosthetic ring",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33427,CPT,1,CARD,"Valvuloplasty, mitral valve, with cardiopulmonary bypass; radical reconstruction, with or without ring",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33430,CPT,1,CARD,"Replacement, mitral valve, with cardiopulmonary bypass",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33440,CPT,1,CARD,Replacement of aortic valve by translocation of autologous pulmonary valve and transventricular aortic annulus enlargement of left ventricular outflow tract with valved conduit replacement of pulmonary valve,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33460,CPT,1,CARD,"Valvectomy, tricuspid valve, with cardiopulmonary bypass",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33463,CPT,1,CARD,"Valvuloplasty, tricuspid valve; without ring insertion ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33464,CPT,1,CARD,"Valvuloplasty, tricuspid valve; with ring insertion",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33465,CPT,1,CARD,"Replacement, tricuspid valve, with cardiopulmonary bypass ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33468,CPT,1,CARD,Tricuspid valve repositioning and plication for Ebstein anomaly,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33474,CPT,1,CARD,"Valvotomy, pulmonary valve, open heart, with cardiopulmonary bypass",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33475,CPT,1,CARD,"Replacement, pulmonary valve ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33476,CPT,1,CARD,"Right ventricular resection for infundibular stenosis, with or without commissurotomy",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33478,CPT,1,CARD,"Outflow tract augmentation (gusset), with or without commissurotomy or infundibular resection",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33400-33496,33496,CPT,1,CARD,Repair of non-structural prosthetic valve dysfunction with cardiopulmonary bypass (separate procedure),No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33600,CPT,1,CARD,Closure of atrioventricular valve (mitral or tricuspid) by suture or patch,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33602,CPT,1,CARD,Closure of semilunar valve (aortic or pulmonary) by suture or patch,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33608,CPT,1,CARD,Repair of complex cardiac anomaly other than pulmonary atresia with ventricular septal defect by construction or replacement of conduit from right or left ventricle to pulmonary artery,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33610,CPT,1,CARD,"Repair of complex cardiac anomalies (eg, single ventricle with subaortic obstruction) by surgical enlargement of ventricular septal defect",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33611,CPT,1,CARD,Repair of double outlet right ventricle with intraventricular tunnel repair;,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33612,CPT,1,CARD,Repair of double outlet right ventricle with intraventricular tunnel repair; with repair of right ventricular outflow tract obstruction,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33615,CPT,1,CARD,"Repair of complex cardiac anomalies (eg, tricuspid atresia) by closure of atrial septal defect and anastomosis of atria or vena cava to pulmonary artery (simple Fontan procedure)",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33617,CPT,1,CARD,"Repair of complex cardiac anomalies (e.g., single ventricle by modified Fontan)",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33619,CPT,1,CARD,"Repair of single ventricle with aortic outflow obstruction and aortic arch hypoplasia (hypoplastic left heart syndrome) (eg, Norwood procedure)",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33641,CPT,1,CARD,"Repair atrial septal defect, secundum, with cardiopulmonary bypass, with or without patch ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33645,CPT,1,CARD,"Direct or patch closure, sinus venosus, with or without anomalous pulmonary venous drainage ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33647,CPT,1,CARD,"Repair of atrial septal defect and ventricular septal defect, with direct or patch closure ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33660,CPT,1,CARD,"Repair of incomplete or partial atrioventricular canal (ostium primum atrial septal defect), with or without atrioventricular valve repair ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33665,CPT,1,CARD,"Repair of intermediate or transitional atrioventricular canal, with or without atrioventricular valve repair ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33670,CPT,1,CARD,"Repair of complete atrioventricular canal, with or without prosthetic valve ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33675,CPT,1,CARD,Closure of multiple ventricular septal defects;,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33676,CPT,1,CARD,Closure of multiple ventricular septal defects; with pulmonary valvotomy or infundibular resection (acyanotic),No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33677,CPT,1,CARD,"Closure of multiple ventricular septal defects; with removal of pulmonary artery band, with or without gusset ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33681,CPT,1,CARD,"Closure of single ventricular septal defect, with or without patch; ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33600-33684,33684,CPT,1,CARD,"Closure of single ventricular septal defect, with or without patch; with pulmonary valvotomy or infundibular resection (acyanotic) ",No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33732,33732,CPT,1,CARD,Repair of cor triatriatum or supravalvular mitral ring by resection of left atrial membrane,No change,TRUE
+TP0160,Open heart valve surgery,Circulatory System,33920,33920,CPT,1,CARD,"Repair of pulmonary atresia with ventricular septal defect, by construction or replacement of conduit from right or left ventricle to pulmonary artery",No change,TRUE
+TP0182,Aortic repair,Circulatory System,0078T-0079T,0078T-0079T,CPT,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,0236T,0236T,CPT Cat III,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,33320-33335,33320-33335,CPT,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,33802-33886,33814,CPT,1,CARD,Obliteration of aortopulmonary septal defect; with cardiopulmonary bypass,No change,TRUE
+TP0182,Aortic repair,Circulatory System,34800-34832,34830,CPT,1,AAA,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; tube prosthesis  ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,34800-34832,34831,CPT,1,AAA,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; aorto-bi-iliac prosthesis ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,34800-34832,34832,CPT,1,AAA,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; aorto-bifemoral prosthesis  ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,35081-35092,35081,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for aneurysm, pseudoaneurysm, and associated occlusive disease, abdominal aorta",No change,TRUE
+TP0182,Aortic repair,Circulatory System,35081-35092,35082,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta  ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,35081-35092,35091,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for aneurysm, pseudoaneurysm, and associated occlusive disease, abdominal aorta involving visceral vessels (mesenteric, celiac, renal) ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,35081-35092,35092,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta involving visceral vessels (mesenteric, celiac, renal)  ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,35103,35103,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta involving iliac vessels (common, hypogastric, external)  ",No change,TRUE
+TP0182,Aortic repair,Circulatory System,35331,35331,CPT,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,35452-35491,35452-35491,CPT,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,37206-37208,37206-37208,CPT,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,C1112-C1117,C1112-C1117,CPT,1,,,,FALSE
+TP0182,Aortic repair,Circulatory System,M0301,M0301,HCPCS,1,,,,FALSE
+TP0218,Leg vein ablation,Circulatory System,36475-36479,36475-36479,CPT,1,,,,FALSE
+TP0218,Leg vein ablation,Circulatory System,S2130,S2130,HCPCS,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,0254T-0255T,0254T-0255T,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,34201-34203,34201-34203,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,34808-34834,34830,CPT,1,AAA,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; tube prosthesis  ",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,34808-34834,34831,CPT,1,AAA,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; aorto-bi-iliac prosthesis ",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,34808-34834,34832,CPT,1,AAA,"Open repair of infrarenal aortic aneurysm or dissection, plus repair of associated arterial trauma, following unsuccessful endovascular repair; aorto-bifemoral prosthesis  ",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,34900,34900,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,35102-35190,35102,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for aneurysm, pseudoaneurysm, and associated occlusive disease, abdominal aorta involving iliac vessels (common, hypogastric, external)  ",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35102-35190,35103,CPT,1,AAA,"Direct repair of aneurysm, pseudoaneurysm, or excision (partial or total) and graft insertion, with or without patch graft; for ruptured aneurysm, abdominal aorta involving iliac vessels (common, hypogastric, external)  ",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35256-35286,35256-35286,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,35302-35381,35302-35381,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,35454-35495,35454-35495,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35521,CPT,1,PVBY,"Bypass graft, with vein; axillary-femoral",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35522,CPT,1,PVBY,"Bypass graft, with vein; axillary-brachial",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35523,CPT,1,PVBY,"Bypass graft, with vein; brachial-ulnar or -radial",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35525,CPT,1,PVBY,"Bypass graft, with vein; brachial-brachial",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35533,CPT,1,PVBY,"Bypass graft, with vein; axillary-femoral-femoral",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35556,CPT,1,PVBY,"Bypass graft, with vein; femoral-popliteal",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35558,CPT,1,PVBY,"Bypass graft, with vein; femoral-femoral",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35566,CPT,1,PVBY,"Bypass graft, with vein; femoral-anterior tibial, posterior tibial, peroneal artery or other distal vessels",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35570,CPT,1,PVBY,"Bypass graft, with vein; tibial-tibial, peroneal-tibial, or tibial/peroneal trunk-tibial",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35571,CPT,1,PVBY,"Bypass graft, with vein; popliteal-tibial, -peroneal artery or other distal vessels",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35583,CPT,1,PVBY,In-situ vein bypass; femoral-popliteal,No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35585,CPT,1,PVBY,"In-situ vein bypass; femoral-anterior tibial, posterior tibial, or peroneal artery",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35521-35587,35587,CPT,1,PVBY,"In-situ vein bypass; popliteal-tibial, peroneal",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35621,CPT,1,PVBY,"Bypass graft, with other than vein; axillary-femoral",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35623,CPT,1,PVBY,"Bypass graft, with other than vein; axillary-popliteal or -tibial",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35650,CPT,1,PVBY,"Bypass graft, with other than vein; axillary-axillary",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35654,CPT,1,PVBY,"Bypass graft, with other than vein; axillary-femoral-femoral",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35656,CPT,1,PVBY,"Bypass graft, with other than vein; femoral-popliteal",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35661,CPT,1,PVBY,"Bypass graft, with other than vein; femoral-femoral",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35666,CPT,1,PVBY,"Bypass graft, with other than vein; femoral-anterior tibial, posterior tibial, or peroneal artery",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35671,CPT,1,PVBY,"Bypass graft, with other than vein; popliteal-tibial or -peroneal artery",No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35621-35686,35686,CPT,1,PVBY,Creation of distal arteriovenous fistula during lower extremity bypass surgery (non-hemodialysis),No change,TRUE
+TP0226,Leg revascularization,Circulatory System,35721-35741,35721-35741,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,35879-35884,35879-35884,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,37220-37235,37220-37235,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,75954,75954,CPT,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,C1111,C1111,HCPCS,1,,,,FALSE
+TP0226,Leg revascularization,Circulatory System,C1320,C1320,HCPCS,1,,,,FALSE
+TP0237,Leg vein angioplasty,Circulatory System,35460-35476,35460-35476,CPT,1,,,,FALSE
+TP0424,Parathyroidectomy,"Ear, Nose, Mouth & Throat",60500-60505,60500,CPT,1,THYR,Parathyroidectomy or exploration of parathyroid(s),No change,TRUE
+TP0424,Parathyroidectomy,"Ear, Nose, Mouth & Throat",60500-60505,60502,CPT,1,THYR,Parathyroidectomy or exploration of parathyroid(s); re-exploration,No change,TRUE
+TP0424,Parathyroidectomy,"Ear, Nose, Mouth & Throat",60500-60505,60505,CPT,1,THYR,"Parathyroidectomy or exploration of parathyroid(s); with mediastinal exploration, sternal split or transthoracic approach",No change,TRUE
+TP0568,sinus surgery,"Ear, Nose, Mouth & Throat",31237-31298,31237-31298,CPT,1,,,,FALSE
+TP0568,sinus surgery,"Ear, Nose, Mouth & Throat",S2342-S2344,S2342-S2344,CPT,1,,,,FALSE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60210,CPT,1,THYR,"Partial thyroid lobectomy, unilateral; with or without isthmusectomy",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60212,CPT,1,THYR,"Partial thyroid lobectomy, unilateral; with contralateral subtotal lobectomy, including isthmusectomy",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60220,CPT,1,THYR,"Total thyroid lobectomy, unilateral; with or without isthmusectomy",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60225,CPT,1,THYR,"Total thyroid lobectomy, unilateral; with contralateral subtotal lobectomy, including isthmusectomy",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60240,CPT,1,THYR,"Thyroidectomy, total or complete",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60252,CPT,1,THYR,"Thyroidectomy, total or subtotal for malignancy; with limited neck dissection",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60254,CPT,1,THYR,"Thyroidectomy, total or subtotal for malignancy; with radical neck dissection",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60260,CPT,1,THYR,"Thyroidectomy, removal of all remaining thyroid tissue following previous removal of a portion of thyroid",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60270,CPT,1,THYR,"Thyroidectomy, including substernal thyroid; sternal split or transthoracic approach",No change,TRUE
+TP0570,Thyroidectomy,"Ear, Nose, Mouth & Throat",60210-60271,60271,CPT,1,THYR,"Thyroidectomy, including substernal thyroid; cervical approach",No change,TRUE
+TP0600,Cataract surgery IOL,Eye,142,142,CPT,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,0308T,0308T,CPT Cat III,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,65920,65920,CPT,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,66825-66852,66825-66852,CPT,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,66920-66986,66920-66986,CPT,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,C1005-C1006,C1005-C1006,CPT,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,C1840,C1840,HCPCS,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,C3851,C3851,HCPCS,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,Q1001-Q1005,Q1001-Q1005,CPT,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,RC0276,RC0276,HCPCS,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,S0596,S0596,HCPCS,1,,,,FALSE
+TP0600,Cataract surgery IOL,Eye,V2631,V2631,HCPCS,1,,,,FALSE
+TP0602,Cataract surgery sec mem,Eye,66820-66830,66820-66830,CPT,1,,,,FALSE
+TP0611,Glaucoma surgery,Eye,0123T,0123T,CPT Cat III,1,,,,FALSE
+TP0611,Glaucoma surgery,Eye,0192T,0192T,CPT Cat III,1,,,,FALSE
+TP0611,Glaucoma surgery,Eye,0253T,0253T,CPT Cat III,1,,,,FALSE
+TP0611,Glaucoma surgery,Eye,65820-65855,65820-65855,CPT,1,,,,FALSE
+TP0611,Glaucoma surgery,Eye,66150-66185,66150-66185,CPT,1,,,,FALSE
+TP0611,Glaucoma surgery,Eye,66700-66761,66700-66761,CPT,1,,,,FALSE
+TP0628,Retina/choroid destructive therapy,Eye,67208-67229,67208-67229,CPT,1,,,,FALSE
+TP0628,Retina/choroid destructive therapy,Eye,C1360,C1360,HCPCS,1,,,,FALSE
+TP0628,Retina/choroid destructive therapy,Eye,G0183-G0187,G0183-G0187,CPT,1,,,,FALSE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19120-19182,19120,CPT,1,BRST,"Excision of cyst, fibroadenoma, or other benign or malignant tumor, aberrant breast tissue, duct lesion, nipple or areolar lesion (except 19300), open, male or female, 1 or more lesions",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19120-19182,19125,CPT,1,BRST,"Excision of breast lesion identified by pre-operative placement of radiological marker, open, single lesion ",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19120-19182,19126,CPT,1,BRST,"Excision of breast lesion identified by pre-operative placement of radiological marker, open, single lesion; each No changeitional lesion separately identified by a preoperative radiological marker (list separately in No changeition to code for primary procedures) excision of breast lesion identified by pre-operative placement of radiological marker, open, single lesion",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19200-19240,19200-19240,CPT,1,,,,FALSE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19300,CPT,1,BRST,Mastectomy for gynecomastia,No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19301,CPT,1,BRST,"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy);",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19302,CPT,1,BRST,"Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy); with axillary lymphadenectomy",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19303,CPT,1,BRST,"Mastectomy, simple, complete",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19305,CPT,1,BRST,"Mastectomy, radical, including pectoral muscles, axillary lymph nodes",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19306,CPT,1,BRST,"Mastectomy, radical, including pectoral muscles, axillary and internal mammary lymph nodes (Urban type operation)",No change,TRUE
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19300-19307,19307,CPT,1,BRST,"Mastectomy, modified radical, including axillary lymph nodes, with or without pectoralis minor muscle, but excluding pectoralis major muscle",No change,TRUE
+TP0735,Colpopexy,Female Reproductive System,57270-57284,57270-57284,CPT,1,,,,FALSE
+TP0735,Colpopexy,Female Reproductive System,57425,57425,CPT,1,,,,FALSE
+TP0741,Colporrhaphy,Female Reproductive System,45560,45560,CPT,1,,,,FALSE
+TP0741,Colporrhaphy,Female Reproductive System,57200-57289,57200-57289,CPT,1,,,,FALSE
+TP0741,Colporrhaphy,Female Reproductive System,57423-57426,57423-57426,CPT,1,,,,FALSE
+TP0747,Hysterectomy,Female Reproductive System,51925,51925,CPT,1,VHYS,Closure of vesicouterine fistula; with hysterectomy,No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,56308,56308,CPT,1,,,,FALSE
+TP0747,Hysterectomy,Female Reproductive System,58150-58180,58150,CPT,1,HYST,"Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58150-58180,58152,CPT,1,HYST,"Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s); with colpo-urethrocystopexy (eg, Marshall-Marchetti-Krantz, Burch)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58150-58180,58180,CPT,1,HYST,"Supracervical abdominal hysterectomy (subtotal hysterectomy), with or without removal of tube(s), with or without removal of ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58200,CPT,1,HYST,"Total abdominal hysterectomy, including partial vaginectomy, with para-aortic and pelvic lymph node sampling, with or without removal of tube(s), with or without removal of ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58210,CPT,1,HYST,"Radical abdominal hysterectomy, with bilateral total pelvic lymphadenectomy and para-aortic lymph node sampling (biopsy), with or without removal of tube(s), with or without removal of ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58240,CPT,1,HYST,"Pelvic exenteration for gynecologic malignancy, with total abdominal hysterectomy or cervicectomy, with or without removal of tube(s), with or without removal of ovary(s), with removal of bladder and ureteral transplantations, and/or abdominoperineal resection of rectum and colon and colostomy, or any combination thereof",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58260,CPT,1,VHYS,"Vaginal hysterectomy, for uterus 250 g or less",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58262,CPT,1,VHYS,"Vaginal hysterectomy, for uterus 250 g or less; with removal of tube(s), and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58263,CPT,1,VHYS,"Vaginal hysterectomy, for uterus 250 g or less; with removal of tube(s), and/or ovary(s), with repair of enterocele",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58267,CPT,1,VHYS,"Vaginal hysterectomy, for uterus 250 g or less; with colpo-urethrocystopexy (Marshall-Marchetti-Krantz type, Pereyra type) with or without endoscopic control",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58270,CPT,1,VHYS,"Vaginal hysterectomy, for uterus 250 g or less; with repair of enterocele",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58275,CPT,1,VHYS,"Vaginal hysterectomy, for uterus 250 g or less;",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58280,CPT,1,VHYS,"Vaginal hysterectomy, with total or partial vaginectomy; with repair of enterocele",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58285,CPT,1,VHYS,"Vaginal hysterectomy, radical (Schauta type operation)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58290,CPT,1,VHYS,"Vaginal hysterectomy, for uterus greater than 250 g",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58291,CPT,1,VHYS,"Vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58292,CPT,1,VHYS,"Vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s), with repair of enterocele",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58293,CPT,1,VHYS,"Vaginal hysterectomy, for uterus greater than 250 g; with colpo-urethrocystopexy (Marshall-Marchetti-Krantz type, Pereyra type) with or without endoscopic control",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58200-58294,58294,CPT,1,VHYS,"Vaginal hysterectomy, for uterus greater than 250 g; with repair of enterocele",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58541,CPT,1,HYST,"Laparoscopy, surgical, supracervical hysterectomy, for uterus 250 g or less;",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58542,CPT,1,HYST,"Laparoscopy, surgical, supracervical hysterectomy, for uterus 250 g or less; with removal of tube(s) and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58543,CPT,1,HYST,"Laparoscopy, surgical, supracervical hysterectomy, for uterus greater than 250 g;",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58544,CPT,1,HYST,"Laparoscopy, surgical, supracervical hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58548,CPT,1,HYST,"Laparoscopy, surgical, with radical hysterectomy, with bilateral total pelvic lymphadenectomy and para-aortic lymph node sampling (biopsy), with removal of tube(s) and ovary(s), if performed",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58550,CPT,1,HYST,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58552,CPT,1,HYST,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less; with removal of tubes(s) and /or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58553,CPT,1,HYST,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58554,CPT,1,HYST,"Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58570,CPT,1,HYST,"Laparoscopy, surgical, with total hysterectomy, for uterus 250 g or less;",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58571,CPT,1,HYST,"Laparoscopy, surgical, with total hysterectomy, for uterus 250 g or less; with removal of tube(s) and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58572,CPT,1,HYST,"Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g;",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58541-58573,58573,CPT,1,HYST,"Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58951-58956,58951,CPT,1,HYST,"Resection (initial) of ovarian, tubal or primary peritoneal malignancy with bilateral salpingo-oophorectomy and omentectomy; with total abdominal hysterectomy, pelvic and limited para-aortic lymphadenectomy",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58951-58956,58952,CPT,1,OVRY,"Resection (initial) of ovarian, tubal or primary peritoneal malignancy with bilateral salpingo-oophorectomy and omentectomy; with radical dissection for debulking (i.e., radical excision or destruction, intra-abdominal or retroperitoneal tumors)  ",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58951-58956,58953,CPT,1,HYST,"Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58951-58956,58954,CPT,1,HYST,"Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking; with pelvic lymphadenectomy and limited para-aortic lymphadenectomy",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,58951-58956,58956,CPT,1,HYST,"Bilateral salpingo-oophorectomy with total omentectomy, total abdominal hysterectomy for malignancy",No change,TRUE
+TP0747,Hysterectomy,Female Reproductive System,S2078,S2078,HCPCS,1,,,,FALSE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36818,CPT,1,AVSD,"Arteriovenous anastomosis, open; by upper arm cephalic vein transposition ",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36819,CPT,1,AVSD,"Arteriovenous anastomosis, open; by upper arm basilic vein transposition ",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36820,CPT,1,AVSD,"Arteriovenous anastomosis, open; by forearm vein transposition ",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36821,CPT,1,AVSD,"Arteriovenous anastomosis, open; direct, any site (e.g., Cimino type) (separate procedure) ",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36825,CPT,1,AVSD,Creation of arteriovenous fistula by other than direct arteriovenous anastomosis (separate procedure); autogenous graft,No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36830,CPT,1,AVSD,Creation of arteriovenous fistula by other than direct arteriovenous anastomosis (separate procedure); non autogenous graft,No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36832,CPT,1,AVSD,"Revision, open, arteriovenous fistula; without thrombectomy, autogenous or nonautogenous dialysis graft (separate procedure)",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36833,CPT,1,AVSD,"Revision, open, arteriovenous fistula; with thrombectomy, autogenous or nonautogenous dialysis graft (separate procedure)",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,36818-36870,36838,CPT,1,AVSD,"Distal revascularization and interval ligation (DRIL), upper extremity hemodialysis access (steal syndrome) ",No change,TRUE
+TP1066,AV fistula creation and revision,Circulatory System,37190,37190,CPT,1,,,,FALSE
+TP1066,AV fistula creation and revision,Circulatory System,C1881,C1881,HCPCS,1,,,,FALSE
+TP1066,AV fistula creation and revision,Circulatory System,G0392-G0393,G0392-G0393,CPT,1,,,,FALSE
+TP1066,AV fistula creation and revision,Circulatory System,M0900,M0900,HCPCS,1,,,,FALSE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",44900-44979,44900,CPT,1,APPY,"Incision and drainage of appendiceal abscess, open",No change,TRUE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",44900-44979,44950,CPT,1,APPY,Appendectomy,No change,TRUE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",44900-44979,44955,CPT,1,APPY,Appendectomy; when done for indicated purpose at time of other major procedure (not as separate procedure) (List separately in No changeition to code for primary procedure),No change,TRUE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",44900-44979,44960,CPT,1,APPY,Appendectomy; for ruptured appendix with abscess or generalized peritonitis,No change,TRUE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",44900-44979,44970,CPT,1,APPY,"Laparoscopy, surgical, appendectomy ",No change,TRUE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",44900-44979,44979,CPT,1,APPY,"Unlisted laparoscopy procedure, appendix ",No change,TRUE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",49315,49315,CPT,1,,,,FALSE
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",56315,56315,CPT,1,,,,FALSE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47562-47564,47562,CPT,1,CHOL,"Laparoscopy, surgical; cholecystectomy",No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47562-47564,47563,CPT,1,CHOL,"Laparoscopy, surgical; cholecystectomy with cholangiography",No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47562-47564,47564,CPT,1,CHOL,"Laparoscopy, surgical; cholecystectomy with exploration of common duct ",No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47600-47620,47600,CPT,1,CHOL,Cholecystectomy;,No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47600-47620,47605,CPT,1,CHOL,Cholecystectomy; with cholangiography,No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47600-47620,47610,CPT,1,CHOL,Cholecystectomy with exploration of common duct;,No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47600-47620,47612,CPT,1,CHOL,Cholecystectomy with exploration of common duct; with choledochoenterostomy,No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",47600-47620,47620,CPT,1,CHOL,"Cholecystectomy with exploration of common duct; with transduodenal sphincterotomy or sphincteroplasty, with or without cholangiography ",No change,TRUE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",49310-49311,49310-49311,CPT,1,,,,FALSE
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",56324-56342,56324-56342,CPT,1,,,,FALSE
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",0226T-0227T,0226T-0227T,CPT,1,,,,FALSE
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",0288T,0288T,CPT Cat III,1,,,,FALSE
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",44388-44397,44388-44397,CPT,1,,,,FALSE
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",45302-45392,45302-45392,CPT,1,,,,FALSE
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",46602-46615,46602-46615,CPT,1,,,,FALSE
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",S0601,S0601,HCPCS,1,,,,FALSE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44140,CPT,1,COLO,"Colectomy, partial; with anastomosis",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44141,CPT,1,COLO,"Colectomy, partial; with skin level cecostomy or colostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44143,CPT,1,COLO,"Colectomy, partial; with end colostomy and closure of distal segment (Hartmann type procedure)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44144,CPT,1,COLO,"Colectomy, partial; with resection, with colostomy or ileostomy and creation of mucofistula",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44145,CPT,1,COLO,"Colectomy, partial; with coloproctostomy (low pelvic anastomosis)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44146,CPT,1,COLO,"Colectomy, partial; with coloproctostomy (low pelvic anastomosis), with colostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44147,CPT,1,COLO,"Colectomy, partial; abdominal and transanal approach",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44150,CPT,1,COLO,"Colectomy, total, abdominal, without proctectomy; with ileostomy or ileoproctostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44151,CPT,1,COLO,"Colectomy, total, abdominal, without proctectomy; with continent ileostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44155,CPT,1,COLO,"Colectomy, total, abdominal, with proctectomy; with ileostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44156,CPT,1,COLO,"Colectomy, total, abdominal, with proctectomy; with continent ileostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44157,CPT,1,COLO,"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, includes loop ileostomy, and rectal mucosectomy, when performed",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44158,CPT,1,COLO,"Colectomy, total, abdominal, with proctectomy; with ileoanal anastomosis, creation of ileal reservoir (S or J), includes loop ileostomy, and rectal mucosectomy, when performed",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44160,CPT,1,COLO,"Colectomy, partial, with removal of terminal ileum with ileocolostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44180,CPT,1,XLAP,"Laparoscopy, surgical, enterolysis (freeing of intestinal adhesion) (separate procedure)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44186,CPT,1,SB,"Laparoscopy, surgical; jejunostomy (eg, for decompression or feeding)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44187,CPT,1,SB,"Laparoscopy, surgical; ileostomy or jejunostomy, non-tube",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44139-44188,44188,CPT,1,COLO,"Laparoscopy, surgical, colostomy or skin level cecostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44202,CPT,1,SB,"Laparoscopy, surgical; enterectomy, resection of small intestine, single resection and anastomosis",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44204,CPT,1,COLO,"Laparoscopy, surgical; colectomy, partial, with anastomosis",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44205,CPT,1,COLO,"Laparoscopy, surgical; colectomy, partial, with removal of terminal ileum with ileocolostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44206,CPT,1,COLO,"Laparoscopy, surgical; colectomy, partial, with end colostomy and closure of distal segment (Hartmann type procedure)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44207,CPT,1,COLO,"Laparoscopy, surgical; colectomy, partial, with anastomosis, with coloproctostomy (low pelvic anastomosis)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44208,CPT,1,COLO,"Laparoscopy, surgical; colectomy, partial, with anastomosis, with coloproctostomy (low pelvic anastomosis) with colostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44210,CPT,1,COLO,"Laparoscopy, surgical; colectomy, total, abdominal, without proctectomy, with ileostomy or ileoproctostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44211,CPT,1,COLO,"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileoanal anastomosis, creation of ileal reservoir (S or J), with loop ileostomy, includes rectal mucosectomy, when performed",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44212,CPT,1,COLO,"Laparoscopy, surgical; colectomy, total, abdominal, with proctectomy, with ileostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44202-44213,44213,CPT,1,COLO,"Laparoscopy, surgical, mobilization (take-down) of splenic flexure performed in conjunction with partial colectomy (List separately in No changeition to primary procedure)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44661,44661,CPT,1,,,,FALSE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45110,CPT,1,REC,"Proctectomy; complete, combined abdominoperineal, with colostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45111,CPT,1,REC,"Proctectomy; partial resection of rectum, transabdominal approach",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45112,CPT,1,REC,"Proctectomy, combined abdominoperineal, pull-through procedure (eg, colo-anal anastomosis)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45113,CPT,1,REC,"Proctectomy, partial, with rectal mucosectomy, ileoanal anastomosis, creation of ileal reservoir (S or J), with or without loop ileostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45114,CPT,1,REC,"Proctectomy, partial, with anastomosis; abdominal and transsacral approach",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45116,CPT,1,REC,"Proctectomy, partial, with anastomosis; transsacral approach only (Kraske type)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45119,CPT,1,REC,"Proctectomy, combined abdominoperineal pull-through procedure (eg, colo-anal anastomosis), with creation of colonic reservoir (eg, J-pouch), with diverting enterostomy when performed",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45120,CPT,1,REC,"Proctectomy, complete (for congenital megacolon), abdominal and perineal approach; with pull-through procedure and anastomosis (eg, Swenson, Duhamel, or Soave type operation)",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45121,CPT,1,REC,"Proctectomy, complete (for congenital megacolon), abdominal and perineal approach; with subtotal or total colectomy, with multiple biopsies",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45126,CPT,1,REC,"Pelvic exenteration for colorectal malignancy, with proctectomy (with or without colostomy), with removal of bladder and ureteral transplantations, and/or hysterectomy, or cervicectomy, with or without removal of tube(s), with or without removal of ovary(s), or any combination thereof",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45110-45160,45136,CPT,1,SB,Excision of ileoanal reservoir with ileostomy,No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45395-45397,45395,CPT,1,REC,"Laparoscopy, surgical; proctectomy, complete, combined abdominoperineal, with colostomy",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45395-45397,45397,CPT,1,REC,"Laparoscopy, surgical; proctectomy, combined abdominoperineal pull-through procedure (eg, colo-anal anastomosis), with creation of colonic reservoir (eg, J-pouch), with diverting enterostomy, when performed",No change,TRUE
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",45550,45550,CPT,1,REC,"Proctopexy (eg, for prolapse); with sigmoid resection, abdominal approach (open)",No change,TRUE
+TP1389,ERCP,"Digestive System, Hepatobiliary System and Pancreas",43260-43278,43260-43278,CPT,1,,,,FALSE
+TP1395,EGD endoscopy,"Digestive System, Hepatobiliary System and Pancreas",43200-43270,43200-43270,CPT,1,,,,FALSE
+TP1395,EGD endoscopy,"Digestive System, Hepatobiliary System and Pancreas",43600,43600,CPT,1,,,,FALSE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49491-49496,49491,CPT,1,HER,"Repair, initial inguinal hernia, preterm infant (younger than 37 weeks gestation at birth), performed from birth up to 50 weeks postconception age, with or without hydrocelectomy; reducible",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49491-49496,49492,CPT,1,HER,"Repair, initial inguinal hernia, preterm infant (younger than 37 weeks gestation at birth), performed from birth up to 50 weeks postconception age, with or without hydrocelectomy; incarcerated or strangulated",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49491-49496,49495,CPT,1,HER,"Repair, initial inguinal hernia, full term infant younger than age 6 months, or preterm infant older than 50 weeks postconception age and younger than age 6 months at the time of surgery, with or without hydrocelectomy; reducible",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49491-49496,49496,CPT,1,HER,"Repair, initial inguinal hernia, full term infant younger than age 6 months, or preterm infant older than 50 weeks postconception age and younger than age 6 months at the time of surgery, with or without hydrocelectomy; incarcerated or strangulated",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49500,CPT,1,HER,"Repair initial inguinal hernia, age 6 months to younger than 5 years, with or without hydrocelectomy; reducible",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49501,CPT,1,HER,"Repair initial inguinal hernia, age 6 months to younger than 5 years, with or without hydrocelectomy; incarcerated or strangulated",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49505,CPT,1,HER,"Repair initial inguinal hernia, age 5 years or older; reducible",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49507,CPT,1,HER,"Repair initial inguinal hernia, age 5 years or older; incarcerated or strangulated",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49520,CPT,1,HER,"Repair recurrent inguinal hernia, any age; reducible",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49521,CPT,1,HER,"Repair recurrent inguinal hernia, any age; incarcerated or strangulated",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49525,CPT,1,HER,"Repair inguinal hernia, sliding, any age",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49550,CPT,1,HER,"Repair initial femoral hernia, any age; reducible",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49553,CPT,1,HER,"Repair initial femoral hernia, any age; incarcerated or strangulated",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49555,CPT,1,HER,Repair recurrent femoral hernia; reducible,No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49500-49557,49557,CPT,1,HER,Repair recurrent femoral hernia; incarcerated or strangulated,No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49650-49651,49650,CPT,1,HER,"Laparoscopy, surgical; repair initial inguinal hernia",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",49650-49651,49651,CPT,1,HER,"Laparoscopy, surgical; repair recurrent inguinal hernia",No change,TRUE
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",56316-56317,56316-56317,CPT,1,,,,FALSE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48140,CPT,1,BILI,"Pancreatectomy, distal subtotal, with or without splenectomy; without pancreaticojejunostomy ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48145,CPT,1,BILI,"Pancreatectomy, distal subtotal, with or without splenectomy; with pancreaticojejunostomy ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48146,CPT,1,BILI,"Pancreatectomy, distal, near-total with preservation of duodenum (Child-type procedure) ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48148,CPT,1,BILI,Excision of ampulla of Vater,No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48150,CPT,1,BILI,"Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); with pancreatojejunostomy ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48152,CPT,1,BILI,"Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); without pancreatojejunostomy ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48153,CPT,1,BILI,"Pancreatectomy, proximal subtotal with near-total duodenectomy, choledochoenterostomy and duodenojejunostomy (pylorus-sparing, Whipple-type procedure); with pancreatojejunostomy ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48154,CPT,1,BILI,"Pancreatectomy, proximal subtotal with near-total duodenectomy, choledochoenterostomy and duodenojejunostomy (pylorus-sparing, Whipple-type procedure); without pancreatojejunostomy ",No change,TRUE
+TP1453,Pancreatectomy,Neoplasms and Myeloproliferative Diseases,48140-48155,48155,CPT,1,BILI,"Pancreatectomy, total ",No change,TRUE
+TP1572,TURP,Kidney and Urinary Tract Disease,52601-52650,52601-52650,CPT,0.8888888889,,,,FALSE
+TP1572,TURP,Kidney and Urinary Tract Disease,53850-53853,53850-53853,CPT,0.8888888889,,,,FALSE
+TP1572,TURP,Kidney and Urinary Tract Disease,9700-C9713,9700-C9713,CPT,0.8888888889,,,,FALSE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55810,CPT,1,PRST,"Prostatectomy, perineal radical",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55812,CPT,1,PRST,"Prostatectomy, perineal radical; with lymph node biopsy(s) (limited pelvic lymphadenectomy)",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55815,CPT,1,PRST,"Prostatectomy, perineal radical; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric and obturator nodes",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55821,CPT,1,PRST,"Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); suprapubic, subtotal, 1 or 2 stages",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55831,CPT,1,PRST,"Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); retropubic, subtotal",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55840,CPT,1,PRST,"Prostatectomy, retropubic radical, with or without nerve sparing;",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55842,CPT,1,PRST,"Prostatectomy, retropubic radical, with or without nerve sparing; with lymph node biopsy(s) (limited pelvic lymphadenectomy)",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55845,CPT,1,PRST,"Prostatectomy, retropubic radical, with or without nerve sparing; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes",No change,TRUE
+TP1576,Prostatectomy,Kidney and Urinary Tract Disease,55801-55866,55866,CPT,1,PRST,"Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27590-27598,27590,CPT,1,AMP,"Amputation, thigh, through femur, any level; ",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27590-27598,27591,CPT,1,AMP,"Amputation, thigh, through femur, any level; immediate fitting technique including first cast ",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27590-27598,27592,CPT,1,AMP,"Amputation, thigh, through femur, any level; open, circular (guillotine) ",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27590-27598,27598,CPT,1,AMP,Disarticulation at knee,No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27880-27886,27880,CPT,1,AMP,"Amputation, leg, through tibia and fibula; ",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27880-27886,27881,CPT,1,AMP,"Amputation, leg, through tibia and fibula; with immediate fitting technique including application of first cast",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27880-27886,27882,CPT,1,AMP,"Amputation, leg, through tibia and fibula; open, circular (guillotine) ",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27880-27886,27884,CPT,1,AMP,"Amputation, leg, through tibia and fibula; secondary closure or scar revision ",No change,TRUE
+TP1628,leg amputation,Musculoskeletal System & Connective Tissue,27880-27886,27886,CPT,1,AMP,"Amputation, leg, through tibia and fibula; re-amputation ",No change,TRUE
+TP1636,Knee arthroscopy,Musculoskeletal System & Connective Tissue,29866-29889,29866-29889,CPT,1,,,,FALSE
+TP1636,Knee arthroscopy,Musculoskeletal System & Connective Tissue,G0289,G0289,HCPCS,1,,,,FALSE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27090-27091,27090-27091,CPT,1,,,,FALSE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27125-27138,27125,CPT,1,HPRO,"Hemiarthroplasty, hip, partial (eg, femoral stem prosthesis, bipolar arthroplasty)",No change,TRUE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27125-27138,27130,CPT,1,HPRO,"Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft",No change,TRUE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27125-27138,27132,CPT,1,HPRO,"Conversion of previous hip surgery to total hip arthroplasty, with or without autograft or allograft",No change,TRUE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27125-27138,27134,CPT,1,HPRO,"Revision of total hip arthroplasty; both components, with or without autograft or allograft ",No change,TRUE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27125-27138,27137,CPT,1,HPRO,"Revision of total hip arthroplasty; acetabular component only, with or without autograft or allograft ",No change,TRUE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27125-27138,27138,CPT,1,HPRO,"Revision of total hip arthroplasty; femoral component only, with or without allograft",No change,TRUE
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,S2118,S2118,HCPCS,1,,,,FALSE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27438,CPT,1,KPRO,"Arthroplasty, patella; with prosthesis",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27440,CPT,1,KPRO,"Arthroplasty, knee, tibial plateau",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27441,CPT,1,KPRO,"Arthroplasty, knee, tibial plateau; with debridement and partial synovectomy",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27442,CPT,1,KPRO,"Arthroplasty, femoral condyles or tibial plateau(s), knee",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27443,CPT,1,KPRO,"Arthroplasty, femoral condyles or tibial plateau(s), knee; with debridement and partial synovectomy",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27446,CPT,1,KPRO,"Arthroplasty, knee, condyle and plateau; medial OR lateral compartment",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27447,CPT,1,KPRO,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27486,CPT,1,KPRO,"Revision of total knee athroplasty, with or without allograft, one component",No change,TRUE
+TP1660,Knee replacement,Musculoskeletal System & Connective Tissue,27420-27488,27487,CPT,1,KPRO,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",No change,TRUE
+TP1687,Shoulder total arthroplasty,Musculoskeletal System & Connective Tissue,23470-23474,23470-23474,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0092T-0098T,0092T-0098T,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0163T-0165T,0163T-0165T,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0171T-0172T,0171T-0172T,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0195T-0196T,0195T-0196T,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0202T,0202T,CPT Cat III,1,LAM,"Posterior vertebral joint(s) arthroplasty (eg, facet joint[s] replacement), including facetectomy, laminectomy, foraminotomy, and vertebral column fixation, injection of bone cement, when performed, including fluoroscopy, single level, lumbar spine",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0216T-0219T,0219T,CPT,1,LAM,"Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0220T-0222T,0220T,CPT,1,LAM,"Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0220T-0222T,0221T,CPT,1,LAM,"Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0274T-0275T,0274T-0275T,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0309T,0309T,CPT Cat III,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22015,22015,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22100-22145,22100-22145,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22207-22226,22220,CPT,1,LAM,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22207-22226,22222,CPT,1,LAM,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22207-22226,22224,CPT,1,LAM,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22325,22325,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22511-22514,22511-22514,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22532,CPT,1,FUSN,"Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22533,CPT,1,FUSN,"Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22548,CPT,1,FUSN,"Arthrodesis, anterior transoral or extraoral technique, clivus-C1-C2 (atlas-axis), with or without excision of odontoid process",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22551,CPT,1,FUSN,"Arthrodesis, anterior interbody, including disc space preparation, discectomy, osteophytectomy and decompression of spinal cord and/or nerve roots; cervical below C2",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22554,CPT,1,FUSN,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); cervical below C2",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22556,CPT,1,FUSN,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22558,CPT,1,FUSN,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22586,CPT,1,FUSN,"Arthrodesis, pre-sacral interbody technique, including disc space preparation, discectomy, with posterior instrumentation, with image guidance, includes bone graft when performed, L5-S1 interspace",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22590,CPT,1,FUSN,"Arthrodesis, posterior technique, craniocervical (occiput-C2)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22520-22595,22595,CPT,1,FUSN,"Arthrodesis, posterior technique, atlas-axis (C1-C2)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22612-22650,22612,CPT,1,FUSN,"Arthrodesis, posterior or posterolateral technique, single level; lumbar (with lateral transverse technique, when performed)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22612-22650,22630,CPT,1,FUSN,"Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for decompression), single interspace; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22612-22650,22633,CPT,1,FUSN,"Arthrodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and/or discectomy sufficient to prepare interspace (other than for decompression), single interspace and segment; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22810,CPT,1,FUSN,"Arthrodesis, anterior, for spinal deformity, with or without cast; 4 to 7 vertebral segments",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22812,CPT,1,FUSN,"Arthrodesis, anterior, for spinal deformity, with or without cast; 8 or more vertebral segments",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22856,CPT,1,LAM,"Total disc arthroplasty (artificial disc), anterior approach, including discectomy with end plate preparation (includes osteophytectomy for nerve root or spinal cord decompression and microdissection); single interspace, cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22857,CPT,1,LAM,"Total disc arthroplasty (artificial disc), anterior approach, including discectomy to prepare interspace (other than for decompression), single interspace, lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22861,CPT,1,LAM,"Revision including replacement of total disc arthroplasty (artificial disc), anterior approach, single interspace; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22862,CPT,1,LAM,"Revision including replacement of total disc arthroplasty (artificial disc), anterior approach, single interspace; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22810-22870,22867,CPT,1,LAM,"Insertion of interlaminar/interspinous process stabilization/distraction device, without fusion, including image guidance when performed, with open decompression, lumbar; single level ",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,62263-62287,62287,CPT,1,LAM,"Decompression procedure, percutaneous, of nucleus pulposus of intervertebral disc, any method utilizing needle based technique to remove disc material under fluoroscopic imaging or other form of indirect visualization, with the use of an endoscope, with discography and/or epidural injection(s) at the treated level(s), when performed, single or multiple levels, lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63005,CPT,1,LAM,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; lumbar, except for spondylolisthesis",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63011,CPT,1,LAM,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; sacral",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63012,CPT,1,LAM,"Laminectomy with removal of abnormal facets and/or pars inter-articularis with decompression of cauda equina and nerve roots for spondylolisthesis, lumbar (Gill type procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63015,CPT,1,LAM,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), more than 2 vertebral segments; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63016,CPT,1,LAM,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), more than 2 vertebral segments; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63017,CPT,1,LAM,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (eg, spinal stenosis), more than 2 vertebral segments; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63020,CPT,1,LAM,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63030,CPT,1,LAM,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63035,CPT,1,LAM,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; each No changeitional interspace, cervical or lumbar (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63040,CPT,1,LAM,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63042,CPT,1,LAM,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63045,CPT,1,LAM,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63046,CPT,1,LAM,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63047,CPT,1,LAM,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63048,CPT,1,LAM,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; each No changeitional segment, cervical, thoracic, or lumbar (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63050,CPT,1,LAM,"Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments;",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63051,CPT,1,LAM,"Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments; with reconstruction of the posterior bony elements (including the application of bridging bone graft and non-segmental fixation devices [eg, wire, suture, mini-plates], when performed)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63055,CPT,1,LAM,"Transpedicular approach with decompression of spinal cord, equina and/or nerve root(s) (eg, herniated intervertebral disc), single segment; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63056,CPT,1,LAM,"lumbar (including transfacet, or lateral extraforaminal approach) (eg, far lateral herniated intervertebral disc",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63064,CPT,1,LAM,"Costovertebral approach with decompression of spinal cord or nerve root(s), (eg, herniated intervertebral disc), thoracic; single segment",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63075,CPT,1,LAM,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, single interspace",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63077,CPT,1,LAM,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; thoracic, single interspace",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63081,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, single segment",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63082,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, each No changeitional segment (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63085,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, transthoracic approach with decompression of spinal cord and/or nerve root(s); thoracic, single segment",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63086,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, transthoracic approach with decompression of spinal cord and/or nerve root(s); thoracic, each No changeitional segment (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63087,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; single segment",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63005-63088,63088,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; each No changeitional segment (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63101,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, lateral extracavitary approach with decompression of spinal cord and/or nerve root(s) (eg, for tumor or retropulsed bone fragments); thoracic, single segment",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63102,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, lateral extracavitary approach with decompression of spinal cord and/or nerve root(s) (eg, for tumor or retropulsed bone fragments); lumbar, single segment",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63103,CPT,1,LAM,"Vertebral corpectomy (vertebral body resection), partial or complete, lateral extracavitary approach with decompression of spinal cord and/or nerve root(s) (eg, for tumor or retropulsed bone fragments); thoracic or lumbar, each No changeitional segment (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63170,CPT,1,LAM,"Laminectomy with myelotomy (eg, Bischof or DREZ type), cervical, thoracic, or thoracolumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63172,CPT,1,LAM,Laminectomy with drainage of intramedullary cyst/syrinx; to subarachnoid space,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63173,CPT,1,LAM,Laminectomy with drainage of intramedullary cyst/syrinx; to peritoneal or pleural space,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63180,CPT,1,LAM,"Laminectomy and section of dentate ligaments, with or without dural graft, cervical; 1 or 2 segments",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63182,CPT,1,LAM,"Laminectomy and section of dentate ligaments, with or without dural graft, cervical; more than 2 segments",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63185,CPT,1,LAM,Laminectomy with rhizotomy; 1 or 2 segments,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63190,CPT,1,LAM,Laminectomy with rhizotomy; more than 2 segments,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63191,CPT,1,LAM,Laminectomy with section of spinal accessory nerve,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63101-63199,63197,CPT,1,LAM,"Laminectomy with cordotomy, with section of both spinothalamic tracts, 1 stage; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63200,CPT,1,LAM,"Laminectomy, with release of tethered spinal cord, lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63250,CPT,1,LAM,Laminectomy for excision or occlusion of arteriovenous malformation of spinal cord; cervical,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63251,CPT,1,LAM,Laminectomy for excision or occlusion of arteriovenous malformation of spinal cord; thoracic,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63252,CPT,1,LAM,Laminectomy for excision or occlusion of arteriovenous malformation of spinal cord; thoracolumbar,No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63265,CPT,1,LAM,"Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63266,CPT,1,LAM,"Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63267,CPT,1,LAM,"Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63268,CPT,1,LAM,"Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; sacral",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63270,CPT,1,LAM,"Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63271,CPT,1,LAM,"Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63272,CPT,1,LAM,"Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63273,CPT,1,LAM,"Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; sacral",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63275,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; extradural, cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63276,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; extradural, thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63277,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; extradural, lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63278,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; extradural, sacral",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63280,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, extramedullary, cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63281,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, extramedullary, thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63282,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, extramedullary, lumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63283,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, sacral",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63285,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, intramedullary, cervical",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63286,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, intramedullary, thoracic",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63287,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, intramedullary, thoracolumbar",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63200-63295,63290,CPT,1,LAM,"Laminectomy for biopsy/excision of intraspinal neoplasm; combined extradural-intradural lesion, any level",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63303,63303,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63307,63307,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63600-63655,63600-63655,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63740-63746,63740,CPT,1,LAM,"Creation of shunt, lumbar, subarachnoid-peritoneal, -pleural, or other; including laminectomy",No change,TRUE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,64493,64493,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,C9718-C9729,C9718-C9729,CPT,1,,,,FALSE
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,S2348-S2371,S2348-S2371,CPT,1,,,,FALSE
+TP1796,Carotid Revascularization,Nervous System,0075T-0076T,0075T-0076T,CPT,1,,,,FALSE
+TP1796,Carotid Revascularization,Nervous System,35301-35390,35301,CPT,1,CEA,"Thromboendarterectomy, including patch graft, if performed; carotid, vertebral, subclavian, by neck incision",No change,TRUE
+TP1796,Carotid Revascularization,Nervous System,35301-35390,35390,CPT,1,CEA,"Reoperation, carotid, thromboendarterectomy, more than 1 month after original operation (List separately in No changeition to code for primary procedure)",No change,TRUE
+TP1796,Carotid Revascularization,Nervous System,37215-37216,37215-37216,CPT,1,,,,FALSE
+TP1796,Carotid Revascularization,Nervous System,S2211,S2211,HCPCS,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,50551-50580,50551-50580,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,50951-50980,50951-50980,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,51700,51700,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52000-52010,52000-52010,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52204-52290,52204-52290,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52300-52356,52300-52356,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52400-52450,52400-52450,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52500-52510,52500-52510,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52606-52640,52606-52640,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52647-52648,52647-52648,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52700,52700,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,53200,53200,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,53850-53860,53850-53860,CPT,1,,,,FALSE
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,S2070,S2070,HCPCS,1,,,,FALSE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,50300-50380,50320,CPT,1,NEPH,"Donor nephrectomy (including cold preservation); open, from living donor  ",No change,TRUE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,50300-50380,50340,CPT,1,KTP,Recipient nephrectomy (separate procedure),No change,TRUE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,50300-50380,50360,CPT,1,KTP,"Renal allotransplantation, implantation of graft; without recipient nephrectomy ",No change,TRUE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,50300-50380,50365,CPT,1,KTP,"Renal allotransplantation, implantation of graft; with recipient nephrectomy ",No change,TRUE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,50300-50380,50380,CPT,1,KTP,"Renal autotransplantation, reimplantation of kidney ",No change,TRUE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,50547,50547,CPT,1,NEPH,"Laparoscopy, surgical; donor nephrectomy (including cold preservation), from living donor  ",No change,TRUE
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,S2065,S2065,HCPCS,1,,,,FALSE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50220-50240,50220,CPT,1,NEPH,"Nephrectomy, including partial ureterectomy, any open approach including rib resection;  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50220-50240,50225,CPT,1,NEPH,"Nephrectomy, including partial ureterectomy, any open approach including rib resection; complicated because of previous surgery on same kidney  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50220-50240,50230,CPT,1,NEPH,"Nephrectomy, including partial ureterectomy, any open approach including rib resection; radical, with regional lymphadenectomy and/or vena caval thrombectomy  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50220-50240,50234,CPT,1,NEPH,Nephrectomy with total ureterectomy and bladder cuff; through same incision,No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50220-50240,50236,CPT,1,NEPH,Nephrectomy with total ureterectomy and bladder cuff; through separate incision,No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50220-50240,50240,CPT,1,NEPH,"Nephrectomy, partial  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50543-50548,50543,CPT,1,NEPH,"Laparoscopy, surgical; partial nephrectomy  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50543-50548,50545,CPT,1,NEPH,"Laparoscopy, surgical; radical nephrectomy (includes removal of Gerota's fascia and surrounding fatty tissue, removal of regional lymph nodes, and adrenalectomy)  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50543-50548,50546,CPT,1,NEPH,"Laparoscopy, surgical; nephrectomy, including partial ureterectomy  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50543-50548,50547,CPT,1,NEPH,"Laparoscopy, surgical; donor nephrectomy (including cold preservation), from living donor  ",No change,TRUE
+TP1859,Nephrectomy,Neoplasms and Myeloproliferative Diseases,50543-50548,50548,CPT,1,NEPH,"Laparoscopy, surgical; nephrectomy with total ureterectomy  ",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27700-27792,27758,CPT,1,FX,"Open treatment of tibial shaft fracture (with or without fibular fracture), with plate/screws, with or without cerclage",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27700-27792,27759,CPT,1,FX,"Treatment of tibial shaft fracture (with or without fibular fracture) by intramedullary implant, with or without interlocking screws and/or cerclage",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27700-27792,27766,CPT,1,FX,"Open treatment of medial malleolus fracture, includes internal fixation, when performed",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27700-27792,27769,CPT,1,FX,"Open treatment of posterior malleolus fracture, includes internal fixation, when performed",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27700-27792,27784,CPT,1,FX,"Open treatment of proximal fibula or shaft fracture, includes internal fixation, when performed",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27700-27792,27792,CPT,1,FX,"Open treatment of distal fibular fracture (lateral malleolus), includes internal fixation, when performed",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27814,CPT,1,FX,"Open treatment of bimalleolar ankle fracture (eg, lateral and medial malleoli, or lateral and posterior malleoli, or medial and posterior malleoli), includes internal fixation, when performed",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27822,CPT,1,FX,"Open treatment of trimalleolar ankle fracture, includes internal fixation, when performed, medial and/or lateral malleolus; without fixation of posterior lip",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27823,CPT,1,FX,"Open treatment of trimalleolar ankle fracture, includes internal fixation, when performed, medial and/or lateral malleolus; with fixation of posterior lip",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27826,CPT,1,FX,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia (eg, pilon or tibial plafond), with internal fixation, when performed; of fibula only",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27827,CPT,1,FX,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia (eg, pilon or tibial plafond), with internal fixation, when performed; of tibia only",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27828,CPT,1,FX,"Open treatment of fracture of weight bearing articular surface/portion of distal tibia (eg, pilon or tibial plafond), with internal fixation, when performed; of both tibia and fibula",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,27808-27860,27829,CPT,1,FX,"Open treatment of distal tibiofibular joint (syndesmosis) disruption, includes internal fixation, when performed",No change,TRUE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28320-28345,28320-28345,CPT,1,,,,FALSE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28400-28496,28400-28496,CPT,1,,,,FALSE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28505-28585,28505-28585,CPT,1,,,,FALSE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28600-28675,28600-28675,CPT,1,,,,FALSE
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,29850-29856,29850-29856,CPT,1,,,,FALSE
+TP1861,Mammaplasty,Female Reproductive System,19140,19140,CPT,1,,,,FALSE
+TP1861,Mammaplasty,Female Reproductive System,19316-19330,19316,CPT,1,BRST,Mastopexy,No change,TRUE
+TP1861,Mammaplasty,Female Reproductive System,19316-19330,19318,CPT,1,BRST,Reduction mammaplasty,No change,TRUE
+TP1861,Mammaplasty,Female Reproductive System,19316-19330,19324,CPT,1,BRST,"Mammaplasty, augmentation; without prosthetic implant",No change,TRUE
+TP1861,Mammaplasty,Female Reproductive System,19316-19330,19325,CPT,1,BRST,"Mammaplasty, augmentation; with prosthetic implant",No change,TRUE
+TP1861,Mammaplasty,Female Reproductive System,19316-19330,19328,CPT,1,BRST,Removal of intact mammary implant,No change,TRUE
+TP1861,Mammaplasty,Female Reproductive System,19316-19330,19330,CPT,1,BRST,Removal of mammary implant material,No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19340,CPT,1,BRST,"Immediate insertion of breast prosthesis following mastopexy, mastectomy or in reconstruction",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19342,CPT,1,BRST,"Delayed insertion of breast prosthesis following mastopexy, mastectomy or in reconstruction",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19350,CPT,1,BRST,Nipple/areola reconstruction,No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19355,CPT,1,BRST,Correction of inverted nipples,No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19357,CPT,1,BRST,"Breast reconstruction, immediate or delayed, with tissue expander, including subsequent expansion",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19361,CPT,1,BRST,"Breast reconstruction with latissimus dorsi flap, without prosthetic implant",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19364,CPT,1,BRST,Breast reconstruction with free flap,No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19366,CPT,1,BRST,Breast reconstruction with other technique,No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19367,CPT,1,BRST,"Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), single pedicle, including closure of donor site;",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19368,CPT,1,BRST,"Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), single pedicle, including closure of donor site; with microvascular anastomosis (supercharging)",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19369,CPT,1,BRST,"Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), double pedicle, including closure of donor site",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19370,CPT,1,BRST,"Open periprosthetic capsulotomy, breast",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19371,CPT,1,BRST,"Periprosthetic capsulectomy, breast",No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,19340-19380,19380,CPT,1,BRST,Revision of reconstructed breast,No change,TRUE
+TP1862,breast revision/reconstruction,Female Reproductive System,S2066-S2068,S2066-S2068,CPT,1,,,,FALSE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43105-43136,43117,CPT,1,GAST,"Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with thoracic esophagogastrostomy, with or without pyloroplasty (Ivor Lewis)",No change,TRUE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43105-43136,43118,CPT,1,GAST,"Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with colon interposition or small intestine reconstruction, including intestine mobilization, preparation, and anastomosis(es)",No change,TRUE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43105-43136,43121,CPT,1,GAST,"Partial esophagectomy, distal two-thirds, with thoracotomy only, with or without proximal gastrectomy, with thoracic esophagogastrostomy, with or without pyloroplasty",No change,TRUE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43105-43136,43122,CPT,1,GAST,"Partial esophagectomy, thoracoabdominal or abdominal approach, with or without proximal gastrectomy; with esophagogastrostomy, with or without pyloroplasty",No change,TRUE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43320-43341,43320,CPT,1,GAST,"Esophagogastrostomy (cardioplasty), with or without vagotomy and pyloroplasty, transabdominal or transthoracic approach",No change,TRUE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43320-43341,43332,CPT,1,XLAP,"Repair, paraesophageal hiatal hernia (including fundoplication), via laparotomy, except neonatal; without implantation of mesh or other prosthesis",No change,TRUE
+TP1863,Esophagectomy,"Digestive System, Hepatobiliary System and Pancreas",43320-43341,43333,CPT,1,XLAP,"Repair, paraesophageal hiatal hernia (including fundoplication), via laparotomy, except neonatal; with implantation of mesh or other prosthesis",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43644-43645,43644,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and Roux-en-Y gastroenterostomy (roux limb 150 cm or less)",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43644-43645,43645,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and small intestine reconstruction to limit absorption",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43770-43775,43770,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; placement of adjustable gastric restrictive device (eg, gastric band and subcutaneous port components)",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43770-43775,43771,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; revision of adjustable gastric restrictive device component only",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43770-43775,43772,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device component only",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43770-43775,43773,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; removal and replacement of adjustable gastric restrictive device component only",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43770-43775,43774,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device and subcutaneous port components",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43770-43775,43775,CPT,1,GAST,"Laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (ie, sleeve gastrectomy)",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43842-43848,43842,CPT,1,GAST,"Gastric restrictive procedure, without gastric bypass, for morbid obesity; vertical-banded gastroplasty",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43842-43848,43843,CPT,1,GAST,"Gastric restrictive procedure, without gastric bypass, for morbid obesity; other than vertical-banded gastroplasty",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43842-43848,43845,CPT,1,GAST,"Gastric restrictive procedure with partial gastrectomy, pylorus-preserving duodenoileostomy and ileoileostomy (50 to 100 cm common channel) to limit absorption (biliopancreatic diversion with duodenal switch)",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43842-43848,43846,CPT,1,SB,"Gastric restrictive procedure, with gastric bypass for morbid obesity; with short limb (150 cm or less) Roux-en-Y gastroenterostomy",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43842-43848,43847,CPT,1,GAST,"Gastric restrictive procedure, with gastric bypass for morbid obesity; with small intestine reconstruction to limit absorption",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",43842-43848,43848,CPT,1,GAST,"Revision, open, of gastric restrictive procedure for morbid obesity, other than adjustable gastric restrictive device (separate procedure)",No change,TRUE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",44131,44131,CPT,1,,,,FALSE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",C9724,C9724,HCPCS,1,,,,FALSE
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",S2082-S2085,S2082-S2085,CPT,1,,,,FALSE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",44346,44346,CPT,1,COLO,Revision of colostomy; with repair of paracolostomy hernia (separate procedure),No change,TRUE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",49540-49590,49550,CPT,1,HER,"Repair initial femoral hernia, any age; reducible",No change,TRUE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",49540-49590,49553,CPT,1,HER,"Repair initial femoral hernia, any age; incarcerated or strangulated",No change,TRUE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",49540-49590,49555,CPT,1,HER,Repair recurrent femoral hernia; reducible,No change,TRUE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",49540-49590,49557,CPT,1,HER,Repair recurrent femoral hernia; incarcerated or strangulated,No change,TRUE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",49652-49659,49659,CPT,1,HER,"Unlisted laparoscopy procedure, hernioplasty, herniorrhaphy, herniotomy",No change,TRUE
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",S2075-S2077,S2075-S2077,CPT,1,,,,FALSE
+TP1866,Liver transplant,Transplant,47135-47147,47135,CPT,1,LTP,"Liver allotransplantation; orthotopic, partial or whole, from cadaver or living donor, any age ",No change,TRUE
+TP1866,Liver transplant,Transplant,47135-47147,47140,CPT,1,BILI,"Donor hepatectomy (including cold preservation), from living donor; left lateral segment only (segments II and III) ",No change,TRUE
+TP1866,Liver transplant,Transplant,47135-47147,47141,CPT,1,BILI,"Donor hepatectomy (including cold preservation), from living donor; total left lobectomy (segments II, III and IV) ",No change,TRUE
+TP1866,Liver transplant,Transplant,47135-47147,47142,CPT,1,BILI,"Donor hepatectomy (including cold preservation), from living donor; total right lobectomy (segments V, VI, VII and VIII) ",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27175-27187,27177,CPT,0.8048780488,FX,Open treatment of slipped femoral epiphysis; single or multiple pinning or bone graft (includes obtaining graft),No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27175-27187,27178,CPT,0.8048780488,FX,Open treatment of slipped femoral epiphysis; closed manipulation with single or multiple pinning,No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27175-27187,27179,CPT,0.8048780488,FX,Open treatment of slipped femoral epiphysis; osteoplasty of femoral neck (Heyman type procedure),No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27175-27187,27181,CPT,0.8048780488,FX,Open treatment of slipped femoral epiphysis; osteotomy and internal fixation,No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27197-27198,27197-27198,CPT,0.8048780488,,,,FALSE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27200-27269,27236,CPT,0.8048780488,HPRO,"Open treatment of femoral fracture, proximal end, neck, internal fixation or prosthetic replacement",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27200-27269,27244,CPT,0.8048780488,FX,"Treatment of intertrochanteric, peritrochanteric, or subtrochanteric femoral fracture; with plate/screw type implant, with or without cerclage",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27200-27269,27245,CPT,0.8048780488,FX,"Treatment of intertrochanteric, peritrochanteric, or subtrochanteric femoral fracture; with intramedullary implant, with or without interlocking screws and/or cerclage",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27200-27269,27248,CPT,0.8048780488,FX,"Open treatment of greater trochanteric fracture, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27200-27269,27254,CPT,0.8048780488,FX,"Open treatment of hip dislocation, traumatic, with acetabular wall and femoral head fracture, with or without internal or external fixation",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27200-27269,27269,CPT,0.8048780488,FX,"Open treatment of femoral fracture, proximal end, head, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27472-27495,27486,CPT,0.8048780488,KPRO,"Revision of total knee athroplasty, with or without allograft, one component",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27472-27495,27487,CPT,0.8048780488,KPRO,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27500-27519,27506,CPT,0.8048780488,FX,"Open treatment of femoral shaft fracture, with or without external fixation, with insertion of intramedullary implant, with or without cerclage and/or locking screws",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27501-27519,27506,CPT,0.8048780488,FX,"Open treatment of femoral shaft fracture, with or without external fixation, with insertion of intramedullary implant, with or without cerclage and/or locking screws",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27500-27519,27507,CPT,0.8048780488,FX,"Open treatment of femoral shaft fracture with plate/screws, with or without cerclage",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27501-27519,27507,CPT,0.8048780488,FX,"Open treatment of femoral shaft fracture with plate/screws, with or without cerclage",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27500-27519,27511,CPT,0.8048780488,FX,"Open treatment of femoral supracondylar or transcondylar fracture without intercondylar extension, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27501-27519,27511,CPT,0.8048780488,FX,"Open treatment of femoral supracondylar or transcondylar fracture without intercondylar extension, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27500-27519,27513,CPT,0.8048780488,FX,"Open treatment of femoral supracondylar or transcondylar fracture with intercondylar extension, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27501-27519,27513,CPT,0.8048780488,FX,"Open treatment of femoral supracondylar or transcondylar fracture with intercondylar extension, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27500-27519,27514,CPT,0.8048780488,FX,"Open treatment of femoral fracture, distal end, medial or lateral condyle, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27501-27519,27514,CPT,0.8048780488,FX,"Open treatment of femoral fracture, distal end, medial or lateral condyle, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27500-27519,27519,CPT,0.8048780488,FX,"Open treatment of distal femoral epiphyseal separation, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27501-27519,27519,CPT,0.8048780488,FX,"Open treatment of distal femoral epiphyseal separation, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27520-27566,27535,CPT,1,FX,"Open treatment of tibial fracture, proximal (plateau); unicondylar, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27520-27566,27536,CPT,1,FX,"Open treatment of tibial fracture, proximal (plateau); bicondylar, with or without internal fixation",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27520-27566,27540,CPT,1,FX,"Open treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, includes internal fixation, when performed",No change,TRUE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,29305-29325,29305-29325,CPT,0.8048780488,,,,FALSE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,29850-29851,29850-29851,CPT,1,,,,FALSE
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,G0412-G0415,G0412-G0415,CPT,0.8048780488,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,23600-23630,23615,CPT,0.989010989,FX,"Open treatment of proximal humeral (surgical or anatomical neck) fracture, includes internal fixation, when performed, includes repair of tuberosity(s), when performed;",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,23600-23630,23616,CPT,0.989010989,FX,"Open treatment of proximal humeral (surgical or anatomical neck) fracture, includes internal fixation, when performed, includes repair of tuberosity(s), when performed; with proximal humeral prosthetic replacement",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,23600-23630,23630,CPT,0.989010989,FX,"Open treatment of greater humeral tuberosity fracture, includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24160-24164,24160-24164,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24300-24371,24300-24371,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24430-24498,24430-24498,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24515,CPT,0.989010989,FX,"Open treatment of humeral shaft fracture with plate/screws, with or without cerclage",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24516,CPT,0.989010989,FX,"Treatment of humeral shaft fracture, with insertion of intramedullary implant, with or without cerclage and/or locking screws",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24545,CPT,0.989010989,FX,"Open treatment of humeral supracondylar or transcondylar fracture, includes internal fixation, when performed; without intercondylar extension",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24546,CPT,0.989010989,FX,"Open treatment of humeral supracondylar or transcondylar fracture, includes internal fixation, when performed; with intercondylar extension",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24575,CPT,0.989010989,FX,"Open treatment of humeral epicondylar fracture, medial or lateral, includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24579,CPT,0.989010989,FX,"Open treatment of humeral condylar fracture, medial or lateral, includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24586,CPT,0.989010989,FX,Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius);,No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24500-24587,24587,CPT,0.989010989,FX,Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius); with implant arthroplasty,No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24600-24685,24635,CPT,0.989010989,FX,"Open treatment of Monteggia type of fracture dislocation at elbow (fracture proximal end of ulna with dislocation of radial head), includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24600-24685,24665,CPT,0.989010989,FX,"Open treatment of radial head or neck fracture, includes internal fixation or radial head excision, when performed;",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24600-24685,24666,CPT,0.989010989,FX,"Open treatment of radial head or neck fracture, includes internal fixation or radial head excision, when performed; with radial head prosthetic replacement",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24600-24685,24685,CPT,0.989010989,FX,"Open treatment of ulnar fracture, proximal end (eg, olecranon or coronoid process[es]), includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25330-25332,25330-25332,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25400-25449,25400-25449,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25500-25575,25515,CPT,0.989010989,FX,"Open treatment of radial shaft fracture, includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25500-25575,25525,CPT,0.989010989,FX,"Open treatment of radial shaft fracture, includes internal fixation, when performed, and open treatment of distal radioulnar joint dislocation (Galeazzi fracture/ dislocation), includes percutaneous skeletal fixation when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25500-25575,25526,CPT,0.989010989,FX,"Open treatment of radial shaft fracture, includes internal fixation, when performed, and open treatment of distal radioulnar joint dislocation (Galeazzi fracture/ dislocation), includes internal fixation, when performed, includes repair of triangular fibrocartilage complex",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25500-25575,25545,CPT,0.989010989,FX,"Open treatment of ulnar shaft fracture, includes internal fixation, when performed",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25500-25575,25574,CPT,0.989010989,FX,"Open treatment of radial AND ulnar shaft fractures, with internal fixation, when performed; of radius OR ulna",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25500-25575,25575,CPT,0.989010989,FX,"Open treatment of radial AND ulnar shaft fractures, with internal fixation, when performed; of radius AND ulna",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25600-25695,25607,CPT,0.989010989,FX,"Open treatment of distal radial extra-articular fracture or epiphyseal separation, with internal fixation",No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25600-25695,25608,CPT,0.989010989,FX,Open treatment of distal radial intra-articular fracture or epiphyseal separation; with internal fixation of 2 fragments,No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25600-25695,25609,CPT,0.989010989,FX,Open treatment of distal radial intra-articular fracture or epiphyseal separation; with internal fixation of 3 or more fragments,No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25600-25695,25652,CPT,0.989010989,FX,Open treatment of ulnar styloid fracture,No change,TRUE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,26527-26536,26527-26536,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,26600-26686,26600-26686,CPT,0.989010989,,,,FALSE
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,26700-26785,26700-26785,CPT,0.989010989,,,,FALSE
+TP1869,C-section,"Pregnancy, Childbirth and Puerperium",59510-59515,59510,CPT,1,CSEC,"Routine obstetric care including antepartum care, cesarean delivery, and postpartum care",No change,TRUE
+TP1869,C-section,"Pregnancy, Childbirth and Puerperium",59510-59515,59514,CPT,1,CSEC,Cesarean delivery only;,No change,TRUE
+TP1869,C-section,"Pregnancy, Childbirth and Puerperium",59510-59515,59515,CPT,1,CSEC,Cesarean delivery only; including postpartum care,No change,TRUE
+TP1869,C-section,"Pregnancy, Childbirth and Puerperium",59618-59622,59618,CPT,1,CSEC,"Routine obstetric care including antepartum care, cesarean delivery, and postpartum care, following attempted vaginal delivery after previous cesarean delivery",No change,TRUE
+TP1869,C-section,"Pregnancy, Childbirth and Puerperium",59618-59622,59620,CPT,1,CSEC,"Cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery;",No change,TRUE
+TP1869,C-section,"Pregnancy, Childbirth and Puerperium",59618-59622,59622,CPT,1,CSEC,"Cesarean delivery only, following attempted vaginal delivery after previous cesarean delivery; including postpartum care",No change,TRUE
+TP1870,Vaginal Delivery,"Pregnancy, Childbirth and Puerperium",59400-59410,59400-59410,CPT,1,,,,FALSE
+TP1870,Vaginal Delivery,"Pregnancy, Childbirth and Puerperium",59610-59614,59610-59614,CPT,1,,,,FALSE
+TP3810,shoulder arthroscopy/tendon repair,Musculoskeletal System & Connective Tissue,23410-23420,23410-23420,CPT,0.7837837838,,,,FALSE
+TP3810,shoulder arthroscopy/tendon repair,Musculoskeletal System & Connective Tissue,29827,29827,CPT,0.7837837838,,,,FALSE
+TP3812,retina procedures,Eye,43279-43282,43279-43282,CPT,0.8,,,,FALSE
+TP3812,retina procedures,Eye,43324-43337,43332,CPT,0.8,XLAP,"Repair, paraesophageal hiatal hernia (including fundoplication), via laparotomy, except neonatal; without implantation of mesh or other prosthesis",No change,TRUE
+TP3812,retina procedures,Eye,43324-43337,43333,CPT,0.8,XLAP,"Repair, paraesophageal hiatal hernia (including fundoplication), via laparotomy, except neonatal; with implantation of mesh or other prosthesis",No change,TRUE
+TP3812,retina procedures,Eye,56349,56349,CPT,0.8,,,,FALSE
+TP3812,retina procedures,Eye,67039-67043,67039-67043,CPT,1,,,,FALSE
+TP3812,retina procedures,Eye,67101-67145,67101-67145,CPT,1,,,,FALSE
+TP3812,retina procedures,Eye,C9701,C9701,HCPCS,0.8,,,,FALSE
+TP3812,retina procedures,Eye,S2215,S2215,HCPCS,0.8,,,,FALSE
