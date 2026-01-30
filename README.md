@@ -22,6 +22,9 @@ This app is part of the broader **EOCS (Episodes of Care Suite)** initiative, wh
 
 ## 📘 Usage Guide
 
+<img width="736" height="565" alt="PACES Epi Trigger Search" src="https://github.com/user-attachments/assets/abd842f0-8b54-454b-921d-1e34dd8b5d1f" />
+
+
 The PACES Episode Trigger Explorer is designed to make it fast and intuitive to identify which triggers belong to which PACES episodes. The tool supports multiple search pathways depending on what information the user starts with.
 
 ---
