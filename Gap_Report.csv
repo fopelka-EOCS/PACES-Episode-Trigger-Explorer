@@ -1,0 +1,160 @@
+Episode ID,Episode Short Name,Clinical Chapter,Trigger Code Raw,Trigger Code,Code System (PACES),Match Score,NHSN Category,Long Description,Code Status,Has NHSN Long Description,Found in CPT Master
+TP0131,Cardiac catheterization,Circulatory System,36013,36013,CPT,1,,,,FALSE,False
+TP0131,Cardiac catheterization,Circulatory System,75500-75527,75500-75527,CPT,1,,,,FALSE,False
+TP0131,Cardiac catheterization,Circulatory System,75750-75766,75750-75766,CPT,1,,,,FALSE,False
+TP0131,Cardiac catheterization,Circulatory System,93451-93462,93451-93462,CPT,1,,,,FALSE,False
+TP0131,Cardiac catheterization,Circulatory System,93501-93567,93501-93567,CPT,1,,,,FALSE,False
+TP0134,CABG,Circulatory System,S2205-S2209,S2205-S2209,CPT,1,,,,FALSE,False
+TP0138,Percutaneous cardiac intervention,Circulatory System,92920-92996,92920-92996,CPT,1,,,,FALSE,False
+TP0138,Percutaneous cardiac intervention,Circulatory System,C9603-C9608,C9603-C9608,CPT,1,,,,FALSE,False
+TP0138,Percutaneous cardiac intervention,Circulatory System,G0290-G0291,G0290-G0291,CPT,1,,,,FALSE,False
+TP0143,Insertion of permanent pacemaker/AICD,Circulatory System,G0448,G0448,HCPCS,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,0078T-0079T,0078T-0079T,CPT,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,0236T,0236T,CPT Cat III,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,33320-33335,33320-33335,CPT,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,35331,35331,CPT,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,35452-35491,35452-35491,CPT,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,37206-37208,37206-37208,CPT,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,C1112-C1117,C1112-C1117,CPT,1,,,,FALSE,False
+TP0182,Aortic repair,Circulatory System,M0301,M0301,HCPCS,1,,,,FALSE,False
+TP0218,Leg vein ablation,Circulatory System,36475-36479,36475-36479,CPT,1,,,,FALSE,False
+TP0218,Leg vein ablation,Circulatory System,S2130,S2130,HCPCS,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,0254T-0255T,0254T-0255T,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,34201-34203,34201-34203,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,34900,34900,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,35256-35286,35256-35286,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,35302-35381,35302-35381,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,35454-35495,35454-35495,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,35721-35741,35721-35741,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,35879-35884,35879-35884,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,37220-37235,37220-37235,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,75954,75954,CPT,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,C1111,C1111,HCPCS,1,,,,FALSE,False
+TP0226,Leg revascularization,Circulatory System,C1320,C1320,HCPCS,1,,,,FALSE,False
+TP0237,Leg vein angioplasty,Circulatory System,35460-35476,35460-35476,CPT,1,,,,FALSE,False
+TP0568,sinus surgery,"Ear, Nose, Mouth & Throat",31237-31298,31237-31298,CPT,1,,,,FALSE,False
+TP0568,sinus surgery,"Ear, Nose, Mouth & Throat",S2342-S2344,S2342-S2344,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,142,142,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,0308T,0308T,CPT Cat III,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,65920,65920,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,66825-66852,66825-66852,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,66920-66986,66920-66986,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,C1005-C1006,C1005-C1006,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,C1840,C1840,HCPCS,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,C3851,C3851,HCPCS,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,Q1001-Q1005,Q1001-Q1005,CPT,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,RC0276,RC0276,HCPCS,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,S0596,S0596,HCPCS,1,,,,FALSE,False
+TP0600,Cataract surgery IOL,Eye,V2631,V2631,HCPCS,1,,,,FALSE,False
+TP0602,Cataract surgery sec mem,Eye,66820-66830,66820-66830,CPT,1,,,,FALSE,False
+TP0611,Glaucoma surgery,Eye,0123T,0123T,CPT Cat III,1,,,,FALSE,False
+TP0611,Glaucoma surgery,Eye,0192T,0192T,CPT Cat III,1,,,,FALSE,False
+TP0611,Glaucoma surgery,Eye,0253T,0253T,CPT Cat III,1,,,,FALSE,False
+TP0611,Glaucoma surgery,Eye,65820-65855,65820-65855,CPT,1,,,,FALSE,False
+TP0611,Glaucoma surgery,Eye,66150-66185,66150-66185,CPT,1,,,,FALSE,False
+TP0611,Glaucoma surgery,Eye,66700-66761,66700-66761,CPT,1,,,,FALSE,False
+TP0628,Retina/choroid destructive therapy,Eye,67208-67229,67208-67229,CPT,1,,,,FALSE,False
+TP0628,Retina/choroid destructive therapy,Eye,C1360,C1360,HCPCS,1,,,,FALSE,False
+TP0628,Retina/choroid destructive therapy,Eye,G0183-G0187,G0183-G0187,CPT,1,,,,FALSE,False
+TP0718,Mastectomy,Neoplasms and Myeloproliferative Diseases,19200-19240,19200-19240,CPT,1,,,,FALSE,False
+TP0735,Colpopexy,Female Reproductive System,57270-57284,57270-57284,CPT,1,,,,FALSE,False
+TP0735,Colpopexy,Female Reproductive System,57425,57425,CPT,1,,,,FALSE,False
+TP0741,Colporrhaphy,Female Reproductive System,45560,45560,CPT,1,,,,FALSE,False
+TP0741,Colporrhaphy,Female Reproductive System,57200-57289,57200-57289,CPT,1,,,,FALSE,False
+TP0741,Colporrhaphy,Female Reproductive System,57423-57426,57423-57426,CPT,1,,,,FALSE,False
+TP0747,Hysterectomy,Female Reproductive System,56308,56308,CPT,1,,,,FALSE,False
+TP0747,Hysterectomy,Female Reproductive System,S2078,S2078,HCPCS,1,,,,FALSE,False
+TP1066,AV fistula creation and revision,Circulatory System,37190,37190,CPT,1,,,,FALSE,False
+TP1066,AV fistula creation and revision,Circulatory System,C1881,C1881,HCPCS,1,,,,FALSE,False
+TP1066,AV fistula creation and revision,Circulatory System,G0392-G0393,G0392-G0393,CPT,1,,,,FALSE,False
+TP1066,AV fistula creation and revision,Circulatory System,M0900,M0900,HCPCS,1,,,,FALSE,False
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",49315,49315,CPT,1,,,,FALSE,False
+TP1354,Appendectomy,"Digestive System, Hepatobiliary System and Pancreas",56315,56315,CPT,1,,,,FALSE,False
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",49310-49311,49310-49311,CPT,1,,,,FALSE,False
+TP1358,Cholecystectomy,"Digestive System, Hepatobiliary System and Pancreas",56324-56342,56324-56342,CPT,1,,,,FALSE,False
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",0226T-0227T,0226T-0227T,CPT,1,,,,FALSE,False
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",0288T,0288T,CPT Cat III,1,,,,FALSE,False
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",44388-44397,44388-44397,CPT,1,,,,FALSE,False
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",45302-45392,45302-45392,CPT,1,,,,FALSE,False
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",46602-46615,46602-46615,CPT,1,,,,FALSE,False
+TP1367,Colonoscopy,"Digestive System, Hepatobiliary System and Pancreas",S0601,S0601,HCPCS,1,,,,FALSE,False
+TP1379,Colectomy,"Digestive System, Hepatobiliary System and Pancreas",44661,44661,CPT,1,,,,FALSE,False
+TP1389,ERCP,"Digestive System, Hepatobiliary System and Pancreas",43260-43278,43260-43278,CPT,1,,,,FALSE,False
+TP1395,EGD endoscopy,"Digestive System, Hepatobiliary System and Pancreas",43200-43270,43200-43270,CPT,1,,,,FALSE,False
+TP1395,EGD endoscopy,"Digestive System, Hepatobiliary System and Pancreas",43600,43600,CPT,1,,,,FALSE,False
+TP1426,Repair inguinal hernia,"Digestive System, Hepatobiliary System and Pancreas",56316-56317,56316-56317,CPT,1,,,,FALSE,False
+TP1572,TURP,Kidney and Urinary Tract Disease,52601-52650,52601-52650,CPT,0.8888888889,,,,FALSE,False
+TP1572,TURP,Kidney and Urinary Tract Disease,53850-53853,53850-53853,CPT,0.8888888889,,,,FALSE,False
+TP1572,TURP,Kidney and Urinary Tract Disease,9700-C9713,9700-C9713,CPT,0.8888888889,,,,FALSE,False
+TP1636,Knee arthroscopy,Musculoskeletal System & Connective Tissue,29866-29889,29866-29889,CPT,1,,,,FALSE,False
+TP1636,Knee arthroscopy,Musculoskeletal System & Connective Tissue,G0289,G0289,HCPCS,1,,,,FALSE,False
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,27090-27091,27090-27091,CPT,1,,,,FALSE,False
+TP1653,HIP Replacement,Musculoskeletal System & Connective Tissue,S2118,S2118,HCPCS,1,,,,FALSE,False
+TP1687,Shoulder total arthroplasty,Musculoskeletal System & Connective Tissue,23470-23474,23470-23474,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0092T-0098T,0092T-0098T,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0163T-0165T,0163T-0165T,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0171T-0172T,0171T-0172T,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0195T-0196T,0195T-0196T,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0274T-0275T,0274T-0275T,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,0309T,0309T,CPT Cat III,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22015,22015,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22100-22145,22100-22145,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22325,22325,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,22511-22514,22511-22514,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63303,63303,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63307,63307,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,63600-63655,63600-63655,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,64493,64493,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,C9718-C9729,C9718-C9729,CPT,1,,,,FALSE,False
+TP1696,Lumbar and sacral spine surgery OTHER,Musculoskeletal System & Connective Tissue,S2348-S2371,S2348-S2371,CPT,1,,,,FALSE,False
+TP1796,Carotid Revascularization,Nervous System,0075T-0076T,0075T-0076T,CPT,1,,,,FALSE,False
+TP1796,Carotid Revascularization,Nervous System,37215-37216,37215-37216,CPT,1,,,,FALSE,False
+TP1796,Carotid Revascularization,Nervous System,S2211,S2211,HCPCS,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,50551-50580,50551-50580,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,50951-50980,50951-50980,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,51700,51700,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52000-52010,52000-52010,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52204-52290,52204-52290,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52300-52356,52300-52356,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52400-52450,52400-52450,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52500-52510,52500-52510,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52606-52640,52606-52640,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52647-52648,52647-52648,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,52700,52700,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,53200,53200,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,53850-53860,53850-53860,CPT,1,,,,FALSE,False
+TP1838,Urinary endoscopy,Kidney and Urinary Tract Disease,S2070,S2070,HCPCS,1,,,,FALSE,False
+TP1849,Kidney transplant,Kidney and Urinary Tract Disease,S2065,S2065,HCPCS,1,,,,FALSE,False
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28320-28345,28320-28345,CPT,1,,,,FALSE,False
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28400-28496,28400-28496,CPT,1,,,,FALSE,False
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28505-28585,28505-28585,CPT,1,,,,FALSE,False
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,28600-28675,28600-28675,CPT,1,,,,FALSE,False
+TP1860,Fracture/dislocation treatment lower leg/ankle/foot,Musculoskeletal System & Connective Tissue,29850-29856,29850-29856,CPT,1,,,,FALSE,False
+TP1861,Mammaplasty,Female Reproductive System,19140,19140,CPT,1,,,,FALSE,False
+TP1862,breast revision/reconstruction,Female Reproductive System,S2066-S2068,S2066-S2068,CPT,1,,,,FALSE,False
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",44131,44131,CPT,1,,,,FALSE,False
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",C9724,C9724,HCPCS,1,,,,FALSE,False
+TP1864,Bariatric surgery,"Digestive System, Hepatobiliary System and Pancreas",S2082-S2085,S2082-S2085,CPT,1,,,,FALSE,False
+TP1865,Repair ventral hernia,"Digestive System, Hepatobiliary System and Pancreas",S2075-S2077,S2075-S2077,CPT,1,,,,FALSE,False
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,27197-27198,27197-27198,CPT,0.8048780488,,,,FALSE,False
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,29305-29325,29305-29325,CPT,0.8048780488,,,,FALSE,False
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,29850-29851,29850-29851,CPT,1,,,,FALSE,False
+TP1867,Fracture/dislocation treatment knee,Musculoskeletal System & Connective Tissue,G0412-G0415,G0412-G0415,CPT,0.8048780488,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24160-24164,24160-24164,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24300-24371,24300-24371,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,24430-24498,24430-24498,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25330-25332,25330-25332,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,25400-25449,25400-25449,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,26527-26536,26527-26536,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,26600-26686,26600-26686,CPT,0.989010989,,,,FALSE,False
+TP1868,Fracture/dislocation treatment arm/wrist/hand,Musculoskeletal System & Connective Tissue,26700-26785,26700-26785,CPT,0.989010989,,,,FALSE,False
+TP1870,Vaginal Delivery,"Pregnancy, Childbirth and Puerperium",59400-59410,59400-59410,CPT,1,,,,FALSE,False
+TP1870,Vaginal Delivery,"Pregnancy, Childbirth and Puerperium",59610-59614,59610-59614,CPT,1,,,,FALSE,False
+TP3810,shoulder arthroscopy/tendon repair,Musculoskeletal System & Connective Tissue,23410-23420,23410-23420,CPT,0.7837837838,,,,FALSE,False
+TP3810,shoulder arthroscopy/tendon repair,Musculoskeletal System & Connective Tissue,29827,29827,CPT,0.7837837838,,,,FALSE,False
+TP3812,retina procedures,Eye,43279-43282,43279-43282,CPT,0.8,,,,FALSE,False
+TP3812,retina procedures,Eye,56349,56349,CPT,0.8,,,,FALSE,False
+TP3812,retina procedures,Eye,67039-67043,67039-67043,CPT,1,,,,FALSE,False
+TP3812,retina procedures,Eye,67101-67145,67101-67145,CPT,1,,,,FALSE,False
+TP3812,retina procedures,Eye,C9701,C9701,HCPCS,0.8,,,,FALSE,False
+TP3812,retina procedures,Eye,S2215,S2215,HCPCS,0.8,,,,FALSE,False
