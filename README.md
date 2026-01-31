@@ -27,10 +27,10 @@ This app is part of the broader **EOCS (Episodes of Care Suite)** initiative, wh
 
 The PACES Episode Trigger Explorer is designed to make it fast and intuitive to identify which triggers belong to which PACES episodes. The tool supports multiple search pathways depending on what information the user starts with.
 
-## Data Versioning
-
-- **PACES Episodes:** Updated with PACES v5.3 (Jan 2026 Release)  
-- **CPT Descriptions:** Integrated from NHSN public release file  
+## Data Versioning 
+- **PACES Episodes:** Updated with PACES v5.3 (Jan 2026 Release)
+- - **CPT Descriptions:** Integrated from NHSN public release file <sub> *CPT® is a registered trademark of the American Medical Association.
+  - Descriptions shown here reflect the NHSN public release file and may not represent the full AMA CPT code set.* </sub>  
 
 ---
 
