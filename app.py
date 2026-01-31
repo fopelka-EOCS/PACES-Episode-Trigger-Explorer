@@ -35,3 +35,19 @@ st.dataframe(
     filtered[["Trigger Code", "Long Description"]]
     .rename(columns={"Trigger Code": "CPT Code"})
 )
+
+st.markdown(
+    """
+    <div style="text-align: center; font-size: 0.8em; color: #666; margin-top: 2em;">
+        <hr>
+        <strong>Data Versions</strong><br>
+        PACES Episodes: Updated with PACES v5.3 (Jan 2026 Release)<br>
+        CPT Descriptions: From NHSN public release file<br><br>
+        <em style="font-size: 0.75em;">
+            CPT® is a registered trademark of the American Medical Association.<br>
+            Descriptions shown here reflect the NHSN public release file and may not represent the full AMA CPT code set.
+        </em>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
