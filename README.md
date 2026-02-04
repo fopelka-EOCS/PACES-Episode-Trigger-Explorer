@@ -1,6 +1,6 @@
 # PACES Episode Trigger Explorer
 
-The **PACES Episode Trigger Explorer** is an interactive Streamlit application designed to help analysts, clinicians, and consulting teams quickly identify and understand the trigger logic associated with PACES episodes. The tool enables users to search by episode short descriptor, clinical chapter, or CPT keyword, returning the relevant triggers and their long-form descriptions.
+The **PACES Episode Trigger Explorer** is an interactive Streamlit application ( https://fopelka-ecos.streamlit.app/ ) designed to help analysts, clinicians, and consulting teams quickly identify and understand the trigger logic associated with PACES episodes. The tool enables users to search by episode short descriptor, clinical chapter, or CPT keyword, returning the relevant triggers and their long-form descriptions.
 
 This app is part of the broader **EOCS (Episodes of Care Suite)** initiative, which aims to provide transparent, data-driven tools that support episode design, validation, and value demonstration.
 
